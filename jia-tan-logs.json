@@ -1,0 +1,2712 @@
+[{
+ "commit": "af071ef7702debef4f1d324616a0137a5001c14c",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-03-26 01:50:02 +0800",
+ "message": "Docs-Simplify-SECURITY.md"
+},
+{
+ "commit": "a4f2e20d8466369b1bb277c66f75c9e4ba9cc378",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-03-09 11:27:27 +0800",
+ "message": "Add-NEWS-for-5.6.1"
+},
+{
+ "commit": "f01be8ad754a905d8c418601767480ec11621b02",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-03-09 10:43:20 +0800",
+ "message": "Translations-Add-missing-riscv-option-to-man-page-translations"
+},
+{
+ "commit": "6e636819e8f070330d835fce46289a3ff72a7b89",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-03-09 10:18:29 +0800",
+ "message": "Tests-Update-two-test-files"
+},
+{
+ "commit": "a3a29bbd5d86183fc7eae8f0182dace374e778d8",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-03-09 10:08:32 +0800",
+ "message": "Tests-Test-single-stream-can-decompress-bad-3-corrupt_lzma2.xz"
+},
+{
+ "commit": "0b4ccc91454dbcf0bf521b9bd51aa270581ee23c",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-03-09 10:05:32 +0800",
+ "message": "Tests-Update-RISC-V-test-files"
+},
+{
+ "commit": "8c9b8b2063daa78ead9f648c2ec3c91e8615dffb",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-03-09 09:52:32 +0800",
+ "message": "liblzma-Fix-typos-in-crc32_fast.c-and-crc64_fast.c"
+},
+{
+ "commit": "b93a8d7631d9517da63f03e0185455024a4609e8",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-03-09 09:49:55 +0800",
+ "message": "Tests-Replace-HAVE_MICROLZMA-usage-in-CMake-and-Autotools-builds"
+},
+{
+ "commit": "82ecc538193b380a21622aea02b0ba078e7ade92",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-03-09 09:20:57 +0800",
+ "message": "liblzma-Fix-false-Valgrind-error-report-with-GCC"
+},
+{
+ "commit": "72d2933bfae514e0dbb123488e9f1eb7cf64175f",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-03-05 00:34:46 +0800",
+ "message": "liblzma-Use-attribute-no_profile_instrument_function-with-ifunc"
+},
+{
+ "commit": "e5faaebbcf02ea880cfc56edc702d4f7298788ad",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-03-05 00:27:31 +0800",
+ "message": "Build-Require-attribute-no_profile_instrument_function-for-ifunc-usage"
+},
+{
+ "commit": "bbf112e32307a75a54a9e170bc392811443d5c87",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-27 23:42:41 +0800",
+ "message": "xz-Change-logging-level-for-thread-reduction-to-highest-verbosity-only"
+},
+{
+ "commit": "1255b7d849bf53f196a842ef2a508ed0ff577eaa",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-26 23:39:29 +0800",
+ "message": "Update-THANKS"
+},
+{
+ "commit": "328c52da8a2bbb81307644efdb58db2c422d9ba7",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-26 23:02:06 +0800",
+ "message": "Build-Fix-Linux-Landlock-feature-test-in-Autotools-and-CMake-builds"
+},
+{
+ "commit": "eb8ad59e9bab32a8d655796afd39597ea6dcc64d",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-26 20:06:10 +0800",
+ "message": "Tests-Add-test_microlzma-to-.gitignore-and-CMakeLists.txt"
+},
+{
+ "commit": "9eed1b9a3ae140e93a82febc05a0181e9a4f5093",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-26 19:56:25 +0800",
+ "message": "Tests-Correct-license-header-in-test_microlzma.c"
+},
+{
+ "commit": "8bf9f72ee1c05b9e205a72807e8a9e304785673d",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-25 21:41:55 +0800",
+ "message": "Fix-typos-in-NEWS-and-CMakeLists"
+},
+{
+ "commit": "5d8d915ebe2e345820a0f54d1baf8d7d4824c0c7",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-24 16:30:06 +0800",
+ "message": "Bump-version-and-soname-for-5.7.0alpha"
+},
+{
+ "commit": "a18fb1edef0d0aac12a09eed05e9c448c777af7b",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-24 15:50:36 +0800",
+ "message": "Add-NEWS-for-5.6.0"
+},
+{
+ "commit": "24355c5280bc95e3d594432d60bb8432aa6af173",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-22 22:27:01 +0800",
+ "message": "Translations-Remove-obsolete-and-fuzzy-matches-from-some-translations"
+},
+{
+ "commit": "02ca4a7d7b703e2ec63e00b70feec825e919dbc1",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-21 00:31:54 +0800",
+ "message": "Translations-Patch-man-pages-to-avoid-fuzzy-matches"
+},
+{
+ "commit": "898aad9fc711e03452d24d9e2c5b7f77a6f9ce64",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-21 00:30:43 +0800",
+ "message": "xzmore-Fix-typo-in-xzmore.1"
+},
+{
+ "commit": "5631aa206c8d16b4eeab85a46b8b698f4fc4cdba",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-24 12:12:16 +0800",
+ "message": "Translations-Update-the-Vietnamese-translation"
+},
+{
+ "commit": "a65fd7ce9d6228e87faf61dc56a35984d0088248",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-24 12:06:40 +0800",
+ "message": "Translations-Update-the-Esperanto-translation"
+},
+{
+ "commit": "cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-23 23:09:59 +0800",
+ "message": "Tests-Add-a-few-test-files"
+},
+{
+ "commit": "39f4a1a86ad80b2d064b812cee42668e6c8b8c73",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-23 20:58:36 +0800",
+ "message": "Tests-Add-MicroLZMA-test"
+},
+{
+ "commit": "adaacafde6661496ca2814b1e94a3ba5186428cb",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-23 20:57:59 +0800",
+ "message": "Build-Define-HAVE_MICROLZMA-when-it-is-configured"
+},
+{
+ "commit": "eea78216d27182ca917bf00e02feaab058a4d21e",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-23 20:27:15 +0800",
+ "message": "xz-Fix-Capsicum-sandbox-compile-error"
+},
+{
+ "commit": "32b0a3ce19224f9074d01a4ffbc1655b05fcb82d",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-23 16:12:32 +0800",
+ "message": "Build-Fix-ARM64-CRC32-instruction-feature-test"
+},
+{
+ "commit": "60462e42609a1d961868a1d1ebecc713c6d27e2e",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-20 23:32:22 +0800",
+ "message": "Translations-Update-the-Romanian-man-page-translations"
+},
+{
+ "commit": "10d733e5b8929c642e00891cfa9ead9c2cdd2e05",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-20 23:30:25 +0800",
+ "message": "Translations-Update-the-Korean-man-page-translations"
+},
+{
+ "commit": "797a34b72ac6baff237d7a546fa941d8f78f2f62",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-20 21:03:53 +0800",
+ "message": "Translations-Update-the-Spanish-translation"
+},
+{
+ "commit": "5c3751d019f023e091df9a653e2bb1f6ea8b0d49",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-20 20:18:07 +0800",
+ "message": "Translations-Update-the-Romanian-translation"
+},
+{
+ "commit": "e2d31154ecc750935436e8b62c6b073b2cfa84e3",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-20 20:15:50 +0800",
+ "message": "Translations-Update-the-Croatian-translation"
+},
+{
+ "commit": "704500f994d5ac271bfcfd592275c5a7da4dc8d2",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-20 20:05:44 +0800",
+ "message": "Translations-Update-the-German-man-page-translations"
+},
+{
+ "commit": "1cfd3dca3fef321b06db73c3c9e13f347c2e2f5f",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-20 19:58:25 +0800",
+ "message": "Translations-Update-the-German-translation"
+},
+{
+ "commit": "28b9b3f16cc7c6e5b42e691994569c17f4561c9a",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-20 19:56:52 +0800",
+ "message": "Translations-Update-the-Hungarian-translation"
+},
+{
+ "commit": "a7a3b62e2ab03c82b2bd5c78da1d1fb8b8490381",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-18 01:09:11 +0800",
+ "message": "Translations-Update-the-Korean-man-page-translations"
+},
+{
+ "commit": "9b315db2d5e74700f3dc0755eb86c27947c0b393",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-18 01:08:32 +0800",
+ "message": "Translations-Update-the-Korean-translation"
+},
+{
+ "commit": "3d198fb13b87f8803442e5799d465f7434a70555",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-17 21:05:07 +0800",
+ "message": "Translations-Update-the-Spanish-translation"
+},
+{
+ "commit": "cf278bfe60a25b54b3786f06503bc61272970820",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-17 20:43:29 +0800",
+ "message": "Translations-Update-the-Swedish-translation"
+},
+{
+ "commit": "b0f1a41be50560cc6cb528e8e96b02b2067c52c2",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-17 20:41:38 +0800",
+ "message": "Translations-Update-the-Polish-translation"
+},
+{
+ "commit": "d74ed48b30c631b6a4c7e7858b06828293bf8520",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-17 20:41:02 +0800",
+ "message": "Translations-Update-the-Ukrainian-translation"
+},
+{
+ "commit": "fb5f6aaf18584672d0fee5dbe41fd30fc6bf5422",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-16 22:53:46 +0800",
+ "message": "Fix-typos-discovered-by-codespell"
+},
+{
+ "commit": "c64723bbb094e29b4edd98f6fcce866e1b569b42",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-16 22:52:41 +0800",
+ "message": "Translations-Update-the-Ukrainian-man-page-translations"
+},
+{
+ "commit": "2895195ed0f68b245c7bd568c126ba6e685fa1d6",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-16 22:51:04 +0800",
+ "message": "Translations-Update-the-Ukrainian-translation"
+},
+{
+ "commit": "4323bc3e0c1e1d2037d5e670a3bf6633e8a3031e",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-15 22:26:43 +0800",
+ "message": "Update-m4-.gitignore"
+},
+{
+ "commit": "6f1790254a03c5edf0f2976f773220f070450acd",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-15 01:53:40 +0800",
+ "message": "Bump-version-for-5.5.2beta"
+},
+{
+ "commit": "de5c5e417645ad8906ef914bc059d08c1462fc29",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-12 17:09:10 +0200",
+ "message": "liblzma-Creates-Non-resumable-and-Resumable-modes-for-lzma_decoder"
+},
+{
+ "commit": "e446ab7a18abfde18f8d1cf02a914df72b1370e3",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-12 17:09:10 +0200",
+ "message": "liblzma-Creates-separate-safe-range-decoder-mode"
+},
+{
+ "commit": "89ea1a22f4ed3685b053b7260bc5acf6c75d1664",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-13 22:38:58 +0800",
+ "message": "Tests-Add-RISC-V-filter-support-in-a-few-places"
+},
+{
+ "commit": "45663443eb2b377e6171529380fee312f1adcdf4",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-13 22:37:07 +0800",
+ "message": "liblzma-Fix-build-error-if-only-RISC-V-BCJ-filter-is-enabled"
+},
+{
+ "commit": "2f15597d677bc35743c777d4cf3bfa698b478681",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-13 22:56:24 +0800",
+ "message": "Translations-Update-the-Korean-translation"
+},
+{
+ "commit": "df873143ad1615c6d6aaa1bf8808b1676091dfe3",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-13 01:55:53 +0800",
+ "message": "Translations-Update-the-Korean-man-page-translations"
+},
+{
+ "commit": "b3f415eddb150341865a1af47959c3baba076b33",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-13 01:53:33 +0800",
+ "message": "Translations-Update-the-Chinese-simplified-translation"
+},
+{
+ "commit": "adb073da76a920b5a81e6b32254f4ddb054dc57a",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-09 23:59:54 +0800",
+ "message": "liblzma-Fix-typo-discovered-by-codespell"
+},
+{
+ "commit": "55d9fc883d221cbace951a370f1fb144698f8c2e",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-09 20:01:06 +0800",
+ "message": "Translations-Update-the-Swedish-translation"
+},
+{
+ "commit": "55ba4a1ea321499c805eedfa811ffde690bae311",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-08 20:09:04 +0800",
+ "message": "Translations-Update-the-Spanish-translation"
+},
+{
+ "commit": "7f2293cd804a89d3c3b2d3ed573560ca9e1520ae",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-07 21:34:35 +0800",
+ "message": "Translations-Update-the-Spanish-translation"
+},
+{
+ "commit": "f4af2036bc625739d6d33d9e1fede583a25c3828",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-07 21:28:32 +0800",
+ "message": "Translations-Update-the-Polish-translation"
+},
+{
+ "commit": "e5e93bb816043c559cddf03a3b7ba13bec353ee4",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-07 19:40:12 +0800",
+ "message": "Translations-Update-the-German-translation"
+},
+{
+ "commit": "28f18ff8e26902762fb007c13be235b4ac1ac071",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-07 19:27:25 +0800",
+ "message": "Translations-Update-the-German-man-page-translations"
+},
+{
+ "commit": "cabfbc7947da05aa5dfe39bec9759e076f940e3c",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-06 23:44:06 +0800",
+ "message": "Translations-Update-the-Romanian-translation"
+},
+{
+ "commit": "bf20c94f5d748cea2147779f4fa7e2fd2eb8555e",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-06 23:45:02 +0800",
+ "message": "Translations-Update-the-Romanian-man-page-translations"
+},
+{
+ "commit": "7c25ec9feb0241e4affb7432681cc4f5696f3a96",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-07 20:56:57 +0800",
+ "message": "Translations-Update-the-Ukrainian-translation"
+},
+{
+ "commit": "b3523250e9eef10b017473754c1e1c9e31f10374",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-06 23:30:03 +0800",
+ "message": "Translations-Update-the-Ukrainian-man-page-translations"
+},
+{
+ "commit": "a5c177f514f4c90e0d2f6045636fca6c2e80a20d",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-02 01:39:28 +0800",
+ "message": "Update-AUTHORS"
+},
+{
+ "commit": "7f68a68c19d0ae57bd0e802be0ea8f974e41299f",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-02 01:38:51 +0800",
+ "message": "liblzma-Update-Authors-list-in-crc32_arm64.h"
+},
+{
+ "commit": "97f9ba50b84e67b3dcb5b17dd5d3e1d14f9ad1d0",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-01 16:07:03 +0800",
+ "message": "liblzma-Check-HAVE_USABLE_CLMUL-before-omitting-CRC32-table"
+},
+{
+ "commit": "ca9015f4dead2c97b48f5a6933631b0a448b65b9",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-02-01 16:06:29 +0800",
+ "message": "liblzma-Check-HAVE_USABLE_CLMUL-before-omitting-CRC64-table"
+},
+{
+ "commit": "2f1552a91c825e87013925e1a67a0930e7aef592",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-23 18:02:13 +0800",
+ "message": "liblzma-Only-use-ifunc-in-crcXX_fast.c-if-its-needed"
+},
+{
+ "commit": "30a25f3742287697bc57a1bef86c19ecf5129322",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-22 22:08:45 +0800",
+ "message": "Docs-Add-disable-arm64-crc32-description-to-INSTALL"
+},
+{
+ "commit": "1940f0ec28f08c0ac72c1413d9706fb82eabe6ad",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-22 21:36:09 +0800",
+ "message": "liblzma-Omit-CRC-tables-when-not-needed-with-ARM64-optimizations"
+},
+{
+ "commit": "761f5b69a4c778c8bcb09279b845b07c28790575",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-22 20:54:56 +0800",
+ "message": "liblzma-Rename-crc32_aarch64.h-to-crc32_arm64.h"
+},
+{
+ "commit": "455a08609caa3223066a717fb01bfa42c5dba47d",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-22 20:49:30 +0800",
+ "message": "liblzma-Refactor-crc_common.h"
+},
+{
+ "commit": "61908e816049af7a9f43ea804a57ee8570e2e644",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-22 00:42:28 +0800",
+ "message": "CMake-Add-support-for-ARM64-CRC32-instruction-detection"
+},
+{
+ "commit": "c5f6d79cc9515a7f22d7ea4860c6cc394b295732",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-22 00:36:47 +0800",
+ "message": "Build-Add-support-for-ARM64-CRC32-instruction-detection"
+},
+{
+ "commit": "b43c3e48bf6097095eef36d44cdbec811074940a",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-26 19:05:51 +0800",
+ "message": "Bump-version-number-for-5.5.1alpha"
+},
+{
+ "commit": "c7a7ae1500ea90bd3c2d54533e4f433933eb598f",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-26 19:00:52 +0800",
+ "message": "Add-NEWS-for-5.5.1alpha"
+},
+{
+ "commit": "0ef8192e8d5af4e6200d5d4aee22d1f177f7a2df",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-26 18:54:24 +0800",
+ "message": "Add-NEWS-for-5.4.6"
+},
+{
+ "commit": "00fa01698df51c58ae2acf8c7fa4e1fb159f75a9",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-09 17:05:01 +0800",
+ "message": "README-Add-COPYING.CC-BY-SA-4.0-entry-to-section-1.1"
+},
+{
+ "commit": "e280470040b27c5e58d78b25b9e2bb71fc6c3882",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-09 16:56:16 +0800",
+ "message": "Build-Add-the-logo-and-license-to-the-release"
+},
+{
+ "commit": "b1ee6cf259bb49ce91abe9f622294524e37edf4c",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-09 16:44:42 +0800",
+ "message": "COPYING-Add-the-license-for-the-XZ-logo"
+},
+{
+ "commit": "31293ae7074802cc7286089a89c7b552d930c97f",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-09 16:40:56 +0800",
+ "message": "Doxygen-Added-the-XZ-logo-and-copyright-information"
+},
+{
+ "commit": "a2dd2dc8e5307a7280bb99868bc478560facba2c",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-23 23:52:49 +0800",
+ "message": "CI-Use-RISC-V-filter-when-building-with-BCJ-support"
+},
+{
+ "commit": "3060e1070b2421b26c0e17794c1307ec5622f11d",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-23 23:52:14 +0800",
+ "message": "Tests-Use-smaller-dictionary-size-in-RISC-V-test-files"
+},
+{
+ "commit": "44ff2fa5c94dc345c4dd69195a19fc5238df60b3",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-23 23:50:57 +0800",
+ "message": "Tests-Skip-RISC-V-test-files-if-decoder-was-not-built"
+},
+{
+ "commit": "db5eb5f563e8baa8d912ecf576f53391ff861596",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-22 23:33:39 +0800",
+ "message": "xz-Update-xz-lvv-for-RISC-V-filter"
+},
+{
+ "commit": "e2870db5be1503e6a489fc3d47daf950d6f62723",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-22 23:33:39 +0800",
+ "message": "Tests-Add-two-RISC-V-Filter-test-files"
+},
+{
+ "commit": "b26a89869315ece2f6d9d10d32d45f672550f245",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-22 23:33:39 +0800",
+ "message": "xz-Update-message-in-long-help-for-RISC-V-Filter"
+},
+{
+ "commit": "283f778908873eca61388029fc418fa800c9d7d7",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-22 23:33:39 +0800",
+ "message": "xz-Update-the-man-page-for-the-RISC-V-Filter"
+},
+{
+ "commit": "ac3691ccca051d67f60b4a3b05b88e511d0b1b28",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-22 23:33:39 +0800",
+ "message": "Tests-Add-RISC-V-Filter-test-in-test_compress.sh"
+},
+{
+ "commit": "2959dbc7358efcf421ce51bc9cd7eae8fdd8fec4",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-22 23:33:39 +0800",
+ "message": "liblzma-Update-string_conversion.c-to-support-RISC-V-Filter"
+},
+{
+ "commit": "34372a5adbe5a7f6bf29498410ba3a463a720966",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-22 23:33:39 +0800",
+ "message": "CMake-Support-RISC-V-BCJ-Filter-for-encoding-and-decoding"
+},
+{
+ "commit": "440a2eccb082dc13400c09e22308a58fef85146c",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-22 23:33:39 +0800",
+ "message": "liblzma-Add-RISC-V-BCJ-filter"
+},
+{
+ "commit": "5540f4329bbdb4deb4850d4af48b18ad074bba19",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-19 23:08:14 +0800",
+ "message": "Docs-Update-.xz-file-format-specification-to-1.2.0"
+},
+{
+ "commit": "22d86192f8cf00902a1f90ee2a83ca600794459b",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-19 23:08:14 +0800",
+ "message": "xz-Update-website-URLs-in-the-man-pages"
+},
+{
+ "commit": "6b63c4c6139fa1bb21b570521d3d2b4a608bc34d",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-19 23:08:14 +0800",
+ "message": "liblzma-Update-website-URL"
+},
+{
+ "commit": "fce4758018f3a3589236f3fe7999fd9dd08c77e9",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-19 23:08:14 +0800",
+ "message": "Docs-Update-website-URLs"
+},
+{
+ "commit": "c26812c5b2c8a2a47f43214afe6b0b840c73e4f5",
+ "author": "jiat0218@gmail.com",
+ "date": "2024-01-19 23:08:14 +0800",
+ "message": "Build-Update-website-URL"
+},
+{
+ "commit": "133c5851eb917c6d99d0b623c1689c8518e65f38",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-12-21 21:39:08 +0800",
+ "message": "Translations-Update-the-French-translation"
+},
+{
+ "commit": "710cbc186cad0ac601c38bd6bf31167648a5581e",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-12-21 16:39:53 +0800",
+ "message": "xz-Add-a-comment-to-Capsicum-sandbox-setup"
+},
+{
+ "commit": "4e1c695676bafbaecc9fb307f6ee94138ae72c12",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-12-20 22:19:19 +0800",
+ "message": "Docs-Update-enable-sandbox-option-in-INSTALL"
+},
+{
+ "commit": "ebddf20214143a8e002ab897e95e880bb4c5ac44",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-12-20 22:39:13 +0800",
+ "message": "CMake-Move-sandbox-detection-outside-of-xz-section"
+},
+{
+ "commit": "5feb09266fd2928ec0a4dcb98c1dc7f053111316",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-12-20 22:43:44 +0800",
+ "message": "Build-Allow-sandbox-to-be-configured-for-just-xzdec"
+},
+{
+ "commit": "d74fb5f060b76db709b50f5fd37490394e52f975",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-12-19 21:18:28 +0800",
+ "message": "xzdec-Add-sandbox-support-for-Pledge-Capsicum-and-Landlock"
+},
+{
+ "commit": "b34b6a9912d6165e34ba0db151b7f9941d2e06d5",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-12-20 21:31:34 +0800",
+ "message": "liblzma-Initialize-lzma_lz_encoder-pointers-with-NULL"
+},
+{
+ "commit": "183a62f0b540ff4d23cc19b2b6bc2525f0bd64df",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-12-16 20:51:38 +0800",
+ "message": "liblzma-Set-all-values-in-lzma_lz_encoder-to-NULL-after-allocation"
+},
+{
+ "commit": "1a1bb381db7a20cf86cb45a350e5cca35224d017",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-12-16 20:30:55 +0800",
+ "message": "liblzma-Tweak-a-comment"
+},
+{
+ "commit": "55810780e04f759747b02683fb8020b8cd022a85",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-12-16 20:28:21 +0800",
+ "message": "liblzma-Make-parameter-names-in-function-definition-match-declaration"
+},
+{
+ "commit": "5dad6f628af742bab826819760deb677597445f7",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-12-16 20:18:47 +0800",
+ "message": "liblzma-Improve-lzma-encoder-init-function-consistency"
+},
+{
+ "commit": "e1b1a9d6370b788bd6078952c6c201e12bc27cbf",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-12-16 11:20:20 +0800",
+ "message": "Docs-Update-repository-URL-in-Changelog"
+},
+{
+ "commit": "f9b82bc64a9405e486575c65c1729229eb0a8198",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-12-15 16:56:31 +0800",
+ "message": "CI-Update-Upload-Artifact-Action"
+},
+{
+ "commit": "d0b24efe6cdc47db5b0fdf6306f70a2e0e63e49e",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-12-07 21:48:07 +0800",
+ "message": "Tests-Silence-Wsign-conversion-warning-on-GCC-version-10"
+},
+{
+ "commit": "4a972a8ee3ed88ac14067c1d2f15b78988e5dae8",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-12-06 18:39:03 +0800",
+ "message": "Update-THANKS"
+},
+{
+ "commit": "ee2f48350099201694a7586e41d7aa2f09fc74da",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-12-06 18:30:25 +0800",
+ "message": "Tests-Minor-cleanups-to-OSS-Fuzz-files"
+},
+{
+ "commit": "685094b8e1c1aa1bf934de0366ca42ef599d25f7",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-30 23:10:43 +0800",
+ "message": "Update-THANKS"
+},
+{
+ "commit": "35558adf9c45e5597f2c8dbd969885dd484038d2",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-30 20:41:00 +0800",
+ "message": "Update-THANKS"
+},
+{
+ "commit": "fd170e8557727bed6bec0518c16415064d972e4e",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-22 21:20:12 +0800",
+ "message": "CI-Test-musl-libc-builds-on-Ubuntu-runner"
+},
+{
+ "commit": "db2b4aa068a492c0013279a4ed43803e8ff9bb3e",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-22 21:12:15 +0800",
+ "message": "CI-Allow-ci_build.sh-to-set-a-different-C-compiler"
+},
+{
+ "commit": "ff7badef53c2cd698d4b72b945f34dfd0835e13c",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-24 21:19:12 +0800",
+ "message": "CMake-Use-consistent-indentation-with-check_c_source_compiles"
+},
+{
+ "commit": "d4af167570f2c14b002ee18a39d5b1e7e5a892b1",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-22 20:33:36 +0800",
+ "message": "CMake-Change-__attribute__-__ifunc__-detection"
+},
+{
+ "commit": "20ecee40a0053fd16371ef0628046bf45e548d72",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-24 20:19:11 +0800",
+ "message": "Docs-Update-INSTALL-for-enable_ifunc-change"
+},
+{
+ "commit": "ffb456593d695d70052a2f71c7a2e6269217d194",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-21 20:56:55 +0800",
+ "message": "Build-Change-enable-ifunc-handling"
+},
+{
+ "commit": "2ab2e4b5a542eab93902985ce4e642719a8b7a4e",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-23 22:13:39 +0800",
+ "message": "xz-Use-is_tty-in-message.c"
+},
+{
+ "commit": "584e3a258f32d579b1d07f99b4dc6e856c10ac7e",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-23 22:04:35 +0800",
+ "message": "xz-Create-separate-is_tty-function"
+},
+{
+ "commit": "6b05f827f50e686537e9a23c49c5aa4c0aa6b23d",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-22 20:39:41 +0800",
+ "message": "tuklib_integer-Fix-typo-discovered-by-codespell"
+},
+{
+ "commit": "ca278eb2b7f5a4940f5ab18955297b398d423824",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-17 20:35:11 +0800",
+ "message": "Tests-Create-test_suffix.sh"
+},
+{
+ "commit": "2a732aba22da1b0d4a1241cb32280ed010ba03ce",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-17 20:19:26 +0800",
+ "message": "xz-Fix-a-bug-with-files-and-files0-in-raw-mode-without-a-suffix"
+},
+{
+ "commit": "299920bab9ae258a247366339264e8aefca9e3ce",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-17 20:04:58 +0800",
+ "message": "Tests-Fix-typo-in-a-comment"
+},
+{
+ "commit": "f481523baac946fa3bc13d79186ffaf0c0b818a7",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-15 23:40:13 +0800",
+ "message": "xz-Refactor-suffix-test-with-raw-format"
+},
+{
+ "commit": "837ea40b1c9d4998cac4500b55171bf33e0c31a6",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-14 20:27:46 +0800",
+ "message": "xz-Move-suffix-check-after-stdout-mode-is-detected"
+},
+{
+ "commit": "d4f4a4d040ef47a5e82dffd0f067e92716606ddf",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-14 20:27:04 +0800",
+ "message": "xz-Detect-when-all-data-will-be-written-to-standard-out-earlier"
+},
+{
+ "commit": "2ade7246e7ba729a91460d2fab0f4c7b89d3998b",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-09 01:21:53 +0800",
+ "message": "liblzma-Add-missing-comments-to-lz_encoder.h"
+},
+{
+ "commit": "5fe1450603dc625340b8b7866fb4a83ff748ad06",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-11-01 20:18:30 +0800",
+ "message": "Add-NEWS-for-5.4.5"
+},
+{
+ "commit": "148e20607e95781558bdfc823ecba07b7af4b590",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-10-31 21:51:40 +0800",
+ "message": "Build-Fix-text-wrapping-in-an-output-message"
+},
+{
+ "commit": "5e3d890f8862a7d4fbef5e38e11b6c9fbd98f468",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-10-24 00:50:08 +0800",
+ "message": "CI-Disable-sandboxing-in-fsanitize-address-undefined-job"
+},
+{
+ "commit": "b1408987ea832e2760e478ae960a636df17a1363",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-10-24 00:15:39 +0800",
+ "message": "CI-Allow-disabling-the-sandbox-in-ci_build.sh"
+},
+{
+ "commit": "988e09f27b9b04a43d45d10f92782e0092ee27a9",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-10-20 19:17:46 +0800",
+ "message": "liblzma-Move-is_clmul_supported-back-to-crc_common.h"
+},
+{
+ "commit": "105c7ca90d4152942e0798580a37f736d02faa22",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-10-19 16:23:32 +0800",
+ "message": "Build-Remove-check-for-COND_CHECK_CRC32-in-check-Makefile.inc"
+},
+{
+ "commit": "139757170468f0f1fafdf0a8ffa74363d1ea1d0c",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-10-19 16:09:01 +0800",
+ "message": "CMake-Add-ALLOW_CLMUL_CRC-option-to-enable-disable-CLMUL"
+},
+{
+ "commit": "c60b25569d414bb73b705977a4dd342f8f9f1965",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-10-19 00:22:50 +0800",
+ "message": "liblzma-Fix-fsanitize-address-failure-with-crc_clmul-functions"
+},
+{
+ "commit": "1c8884f0af28b3a4690bb573cdf3240a8ec73416",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-10-18 19:57:10 +0800",
+ "message": "liblzma-Set-the-MSVC-optimization-fix-to-only-cover-lzma_crc64_clmul"
+},
+{
+ "commit": "e13b7947b92355c334edd594295d3a2c99c4bca1",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-10-18 01:23:26 +0800",
+ "message": "liblzma-Add-include-guards-to-crc_common.h"
+},
+{
+ "commit": "40abd88afcc61a8157fcd12d78d491caeb8e12be",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-10-18 22:50:25 +0800",
+ "message": "liblzma-Add-the-crc_always_inline-macro-to-crc_simd_body"
+},
+{
+ "commit": "a5966c276bd6fa975f0389f8a8dc61393de750b0",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-10-18 22:48:19 +0800",
+ "message": "liblzma-Create-crc_always_inline-macro"
+},
+{
+ "commit": "96b663f67c0e738a99ba8f35d9f4ced9add74544",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-10-14 13:23:23 +0800",
+ "message": "liblzma-Refactor-CRC-comments"
+},
+{
+ "commit": "8c0f9376f58c0696d5d6719705164d35542dd891",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-10-14 12:17:57 +0800",
+ "message": "liblzma-Create-crc_clmul.c"
+},
+{
+ "commit": "a3ebc2c516b09616638060806c841bd4bcf7bce3",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-10-14 10:23:03 +0800",
+ "message": "liblzma-Define-CRC_USE_IFUNC-in-crc_common.h"
+},
+{
+ "commit": "f74f1740067b75042497edbfa6ea457ff75484b9",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-10-12 20:12:18 +0800",
+ "message": "Build-Update-visibility.m4-from-Gnulib"
+},
+{
+ "commit": "01e34aa1171b04f8b28960b1cc6135a903e0c13d",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-29 22:11:54 +0800",
+ "message": "CI-Disable-CLANG64-MSYS2-environment-until-bug-is-resolved"
+},
+{
+ "commit": "30d0c35327f3639cb11224872aa58fdbf0b1526e",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-29 20:14:39 +0800",
+ "message": "CMake-Rename-xz-and-man-page-symlink-custom-targets"
+},
+{
+ "commit": "506d03127a8565442b028ec991e1578124fd3025",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-29 19:58:44 +0800",
+ "message": "CMake-Specify-LINKER_LANGUAGE-for-libgnu-target-to-fix-Ninja-Generator"
+},
+{
+ "commit": "8ebaf3f665ddc7e4f19c613005050dde5ccbe499",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-27 00:02:11 +0800",
+ "message": "liblzma-Avoid-compiler-warning-without-creating-extra-symbol"
+},
+{
+ "commit": "519e47c2818acde571fadc79551294527fe6cc22",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-26 01:17:11 +0800",
+ "message": "CMake-Remove-accidental-extra-newline"
+},
+{
+ "commit": "bbb42412da6a02705ba3e668e90840c2683e4e67",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-26 00:47:26 +0800",
+ "message": "Build-Remove-Gnulib-dependency-from-tests"
+},
+{
+ "commit": "d265f6b75691c6c8fa876eb5320c3ff5aed17dfa",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-26 00:43:43 +0800",
+ "message": "CMake-Remove-lib-from-tests-include-path"
+},
+{
+ "commit": "9fb5de41f2fb654ca952d4bda15cf3777c2b720f",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-24 22:10:41 +0800",
+ "message": "Scripts-Change-quoting-style-from-.-to"
+},
+{
+ "commit": "eaebdef4d4de3c088b0905f42626b74e0d23abf3",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-24 22:10:18 +0800",
+ "message": "xz-Change-quoting-style-from-.-to"
+},
+{
+ "commit": "f6667702bf075a05fbe336dbf3576ad1a82ec645",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-24 22:09:47 +0800",
+ "message": "liblzma-Change-quoting-style-from-.-to"
+},
+{
+ "commit": "be012b8097a4eaee335b51357d6befa745f753ce",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-24 22:09:16 +0800",
+ "message": "Build-Change-quoting-style-from-.-to"
+},
+{
+ "commit": "ce162db07f03495bd333696e66883c8f36abdc1e",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-24 22:05:02 +0800",
+ "message": "Docs-Change-quoting-style-from-.-to"
+},
+{
+ "commit": "db17656721e43939bfa4ec13506e7c76f4b86da6",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-24 21:25:01 +0800",
+ "message": "lib-Silence-Wsign-conversion-in-getopt.c"
+},
+{
+ "commit": "a6234f677d66888f435010bc0b67de6a32fefcf6",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-24 20:48:52 +0800",
+ "message": "Build-Update-getopt.m4-from-Gnulib"
+},
+{
+ "commit": "84808b68f1075e8603a8ef95d361a61fdc6a5b10",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-26 00:09:53 +0800",
+ "message": "CMake-Add-lib-to-include-path"
+},
+{
+ "commit": "01804a0b4b64e0f33568e947e0579263808c59d3",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-24 20:36:34 +0800",
+ "message": "CMake-Update-libgnu-target-with-new-header-files"
+},
+{
+ "commit": "d34558388fe1d8929f6478d61dc322eb4f2900af",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-23 00:47:52 +0800",
+ "message": "lib-Update-Makefile.am-for-new-header-files"
+},
+{
+ "commit": "52bf644bdf536e20fcc743b712cede135e05eec5",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-24 20:34:03 +0800",
+ "message": "lib-Update-getopt1.c-from-Gnulib"
+},
+{
+ "commit": "7e884c00d0093c38339f17fb1d280eec493f42ca",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-23 03:27:00 +0800",
+ "message": "lib-Update-getopt.in.h-from-Gnulib-with-modifications"
+},
+{
+ "commit": "cff05f82066ca3ce9425dafdb086325a8eef8de3",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-23 00:31:55 +0800",
+ "message": "lib-Update-getopt_int.h-from-Gnulib"
+},
+{
+ "commit": "04bd86a4b010d43c6a016a3857ecb38dc1d5b024",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-23 00:27:23 +0800",
+ "message": "lib-Update-getopt.c-from-Gnulib-with-modifications"
+},
+{
+ "commit": "56b42be7287844db20b3a3bc1372c6ae8c040d63",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-23 00:18:56 +0800",
+ "message": "lib-Add-getopt-cdefs.h-for-getopt_long-update"
+},
+{
+ "commit": "9834e591a4cf9dc2f49e42e26bf28d1d247bc196",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-23 00:15:25 +0800",
+ "message": "lib-Copy-new-header-files-from-Gnulib-without-modification"
+},
+{
+ "commit": "953e775941a25bfcfa353f802b13e66acb1edf2c",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-14 21:13:23 +0800",
+ "message": "CI-Enable-CLMUL-in-address-sanitization-test"
+},
+{
+ "commit": "7379bb3eed428c0ae734d0cc4a1fd04359d53f08",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-12 22:36:12 +0800",
+ "message": "CMake-Fix-time.h-checks-not-running-on-second-CMake-run"
+},
+{
+ "commit": "5d691fe58286b92d704c0dc5cd0c4df22881c6c6",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-09-12 22:34:06 +0800",
+ "message": "CMake-Fix-unconditionally-defining-HAVE_CLOCK_MONOTONIC"
+},
+{
+ "commit": "74c3449d8b816a724b12ebce7417e00fb597309a",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-08-28 23:14:45 +0800",
+ "message": "Tests-Improve-invalid-unpadded-size-check-in-test_lzma_index_append"
+},
+{
+ "commit": "2544274a8b8a27f4ea6c457d2c4c32eb1e4cd336",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-08-28 21:54:41 +0800",
+ "message": "Tests-Improve-comments-in-test_index.c"
+},
+{
+ "commit": "49be29d6380b94e6fb26e511dd2cdbd9afce0f8b",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-08-28 21:52:54 +0800",
+ "message": "Update-THANKS"
+},
+{
+ "commit": "721e3d9f7a82f59f32795d5fb97e0210d1aa839a",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-08-28 21:50:16 +0800",
+ "message": "liblzma-Update-assert-in-vli_ceil4"
+},
+{
+ "commit": "ae5c07b22a6b3766b84f409f1b6b5c100469068a",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-08-28 21:31:25 +0800",
+ "message": "liblzma-Add-overflow-check-for-Unpadded-size-in-lzma_index_append"
+},
+{
+ "commit": "1057765aaabfe0f1397b8094531846655376ae38",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-08-28 22:18:29 +0800",
+ "message": "Translations-Update-the-Esperanto-translation"
+},
+{
+ "commit": "f2e94d064f305bb8ad77ca70f91d93e55f5cf856",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-08-26 20:10:23 +0800",
+ "message": "Translations-Update-the-Esperanto-translation"
+},
+{
+ "commit": "2b871f4dbffe3801d0da3f89806b5935f758d5f3",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-08-09 20:55:36 +0800",
+ "message": "Docs-Update-INSTALL-for-enable-threads-method-win95"
+},
+{
+ "commit": "356ad5b26b4196f085ce3afa1869154ca81faad8",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-08-09 20:54:15 +0800",
+ "message": "CMake-Conditionally-allow-win95-threads-and-enable-small"
+},
+{
+ "commit": "de574404c4c2f87aca049f232c38526e3ce092aa",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-08-09 20:35:16 +0800",
+ "message": "Build-Conditionally-allow-win95-threads-and-enable-small"
+},
+{
+ "commit": "80cb961e5380a3878246d41341ff91378ca59e05",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-08-04 22:17:11 +0800",
+ "message": "codespell-Add-.codespellrc-to-set-default-options"
+},
+{
+ "commit": "cd678a6077358935249b64a4a16fe8d17434f9c9",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-08-03 20:10:21 +0800",
+ "message": "Tests-Style-fixes-to-test_lzip_decoder.c"
+},
+{
+ "commit": "1cac5ed4fa45c9861d745b02d80575cb2ff01d81",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-08-03 15:56:20 +0800",
+ "message": "Translations-Update-the-Chinese-simplified-translation"
+},
+{
+ "commit": "9ae4371b5106189486e850ce777e40f7b6021c0b",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-08-02 20:30:07 +0800",
+ "message": "Add-NEWS-for-5.4.4"
+},
+{
+ "commit": "71c638c611324e606d324c8189fef8fe79db6991",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-08-01 21:58:51 +0800",
+ "message": "Add-newline-to-end-of-.gitignore"
+},
+{
+ "commit": "01cbb7f023ee7fda8ddde04bd17cf7d3c2418706",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-26 20:26:23 +0800",
+ "message": "Update-.gitignore"
+},
+{
+ "commit": "f97a1afd564c48ad9cb94682e10972a72e11fa08",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-28 22:03:08 +0800",
+ "message": "CMake-Conditionally-allow-the-creation-of-broken-symlinks"
+},
+{
+ "commit": "7190f4cc7c9ade5b9b3675d0cbfa3b6d6ec9cb4f",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-28 21:56:48 +0800",
+ "message": "CI-Fix-windows-ci-dependency-installation"
+},
+{
+ "commit": "a048f472cd9a2245265cb292853cbbcdd4f02001",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-28 21:54:22 +0800",
+ "message": "CI-Update-ci_build.sh-CMake-to-always-make-Unix-Makefiles"
+},
+{
+ "commit": "7870396a0ca945473aa0d1d790f4cbef456610bd",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-25 20:17:23 +0800",
+ "message": "CI-Test-CMake-builds-and-test-framework-with-MSYS2"
+},
+{
+ "commit": "6497d1f8875cb7e3007f714336cc09c06fed235b",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-25 20:14:53 +0800",
+ "message": "CI-Windows-CI-rename-system-matrix-variable-msys2_env"
+},
+{
+ "commit": "785e4121d9b2921ad36bd3af1cf61fa20a9265bd",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-24 23:11:45 +0800",
+ "message": "CI-Add-Clang64-MSYS2-environment-to-Windows-CI"
+},
+{
+ "commit": "d9166b52cf3458a4da3eb92224837ca8fc208d79",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-24 21:43:44 +0800",
+ "message": "liblzma-Prevent-an-empty-translation-unit-in-Windows-builds"
+},
+{
+ "commit": "db5019d691f980d622fb56fdcf383af2c3519c98",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-22 18:37:56 +0800",
+ "message": "Translations-Update-the-Vietnamese-translation"
+},
+{
+ "commit": "f3a055f762ba5b71b746fc2d44a6ababde2c61b5",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-22 14:55:42 +0800",
+ "message": "CI-Add-Windows-runner-for-Autotools-builds-with-MSYS2"
+},
+{
+ "commit": "556536a3525df9e5ed78b8c7057991cfa9edfac8",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-21 22:11:01 +0800",
+ "message": "CI-Add-argument-to-ci_build.sh-to-pass-flags-to-autogen.sh"
+},
+{
+ "commit": "39a32d36fc465c4e70f13192eea380e518ba6e8a",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-21 18:05:44 +0800",
+ "message": "Tests-Skip-.lz-files-in-test_files.sh-if-not-configured"
+},
+{
+ "commit": "194d12724b30fe42789d12a0184f9d412c449347",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-20 22:11:13 +0800",
+ "message": "Tests-Add-ARM64-filter-test-to-test_compress.sh"
+},
+{
+ "commit": "d850365c444368102c69beaddf849ed463c33467",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-20 20:30:05 +0800",
+ "message": "Translations-Update-the-Croatian-translation"
+},
+{
+ "commit": "24049eb7acf6d42a60f00efe4e7289fe8e1797fe",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-20 20:28:32 +0800",
+ "message": "Translations-Update-the-Korean-man-page-translations"
+},
+{
+ "commit": "4d4a4fa07de6cb9d913fb2f97712fddda2527b49",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-20 20:25:24 +0800",
+ "message": "Translations-Update-the-Korean-translation"
+},
+{
+ "commit": "237f06d9c55cf438a7538a598354bcf103f23711",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-20 20:24:05 +0800",
+ "message": "Translations-Update-the-Polish-translation"
+},
+{
+ "commit": "80c2c832136656d5ac7a1bca8bc42d95e13d281a",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-20 20:22:23 +0800",
+ "message": "Translations-Update-the-German-man-page-translations"
+},
+{
+ "commit": "fdbde14503ca03069d3649aa51926f5f796b89d8",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-20 20:18:44 +0800",
+ "message": "Translations-Update-the-German-translation"
+},
+{
+ "commit": "9f3bf5ff5b2b5cf0b252a2bf381238ca49dc4101",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-20 20:17:10 +0800",
+ "message": "Translations-Update-the-Chinese-simplified-translation"
+},
+{
+ "commit": "376938c588011567c74f1d5a160c0ccce6336d46",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-20 20:15:47 +0800",
+ "message": "Translations-Update-the-Swedish-translation"
+},
+{
+ "commit": "26b0bc6eb82c84559936a7c7080de5c71c8276f8",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-20 20:14:00 +0800",
+ "message": "Translations-Update-the-Ukrainian-man-page-translations"
+},
+{
+ "commit": "2d02c8b7640b54f3c5aa1c8b5990ba56f322393b",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-20 20:09:15 +0800",
+ "message": "Translations-Update-the-Ukrainian-translation"
+},
+{
+ "commit": "f881018b503fd334331c24a09075429558abbce1",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-20 20:06:57 +0800",
+ "message": "Translations-Update-the-Spanish-translation"
+},
+{
+ "commit": "791fe6d3ffd6877fa5f852be69d9251397dfaa31",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-20 20:05:19 +0800",
+ "message": "Translations-Update-the-Romanian-translation"
+},
+{
+ "commit": "8827e90704f699fe08bb5bed56b1717a2bc0eb77",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-20 20:02:56 +0800",
+ "message": "Translations-Update-the-Romanian-man-page-translations"
+},
+{
+ "commit": "0184d344fa4f215cd345bb131db9068e077c69b8",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-19 23:36:00 +0800",
+ "message": "liblzma-Suppress-Wunused-function-warning"
+},
+{
+ "commit": "43845fa70fc751736c44c18f4cee42d49bfd1392",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-18 22:52:25 +0800",
+ "message": "liblzma-Reword-lzma_str_list_filters-documentation"
+},
+{
+ "commit": "818701ba1c9dff780b7fbf28f9ab8eb11a25dd67",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-18 22:49:57 +0800",
+ "message": "liblzma-Improve-comment-in-string_conversion.c"
+},
+{
+ "commit": "abc1d5601b7e419ebc28a1ab4b268613b52e6f98",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-18 00:51:48 +0800",
+ "message": "xz-Update-Authors-list-in-a-few-files"
+},
+{
+ "commit": "289034a168878baa9df6ff6e159110aade69cba5",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-14 23:20:33 +0800",
+ "message": "Docs-Add-a-new-section-to-INSTALL-for-Tests"
+},
+{
+ "commit": "1119e5f5a519b0ab71c81fc4dc84c0cc72abe513",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-14 21:10:27 +0800",
+ "message": "Docs-Update-README"
+},
+{
+ "commit": "f99e2e4e53b7ea89e4eef32ddd4882e0416357c9",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-13 23:32:10 +0800",
+ "message": "xz-Fix-typo-in-man-page"
+},
+{
+ "commit": "f907705eb1f6c5edaafc9668a34c51a989932f1d",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-13 21:46:12 +0800",
+ "message": "xz-Minor-clean-up-for-coder.c"
+},
+{
+ "commit": "9adc9e56157ecbf2948e5036df8567809b9ae177",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-13 21:26:47 +0800",
+ "message": "xz-Update-man-page-Authors-and-date"
+},
+{
+ "commit": "c12e429f2635da8d8f5749e5f733f451baca6945",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-06-20 20:32:59 +0800",
+ "message": "xz-Add-a-section-to-man-page-for-robot-mode-filters-help"
+},
+{
+ "commit": "e10f2db5d10300c16fa482a136ed31c1aa6e8e8d",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-06-19 23:11:41 +0800",
+ "message": "xz-Slight-reword-in-xz-man-page-for-consistency"
+},
+{
+ "commit": "f5dc172a402fa946f3c45a16929d7fe14c9f5e81",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-06-19 23:07:10 +0800",
+ "message": "xz-Reorder-robot-mode-subsections-in-the-man-page"
+},
+{
+ "commit": "9628be23aef2784249fd9f3199799d785d2ec5cc",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-13 00:46:50 +0800",
+ "message": "xz-Update-man-page-for-new-filters-help-option"
+},
+{
+ "commit": "a165d7df1964121eb9df715e6f836a31c865beef",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-13 00:44:41 +0800",
+ "message": "xz-Add-a-new-filters-help-option"
+},
+{
+ "commit": "95f1a414b156ee35d3e71862a14915fdd138f913",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-04-21 20:28:11 +0800",
+ "message": "xz-Update-the-man-page-for-block-list-and-filtersX"
+},
+{
+ "commit": "47a63cad2aa778280e0c1926b7159427ea028cb1",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-04-21 19:50:14 +0800",
+ "message": "xz-Update-long-help-for-the-new-filtersX-option"
+},
+{
+ "commit": "8b9913a13daca2550d02dfdcdc9be15f55ca4d13",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-06-17 20:46:21 +0800",
+ "message": "xz-Ignore-filter-chains-that-are-set-but-never-used-in-block-list"
+},
+{
+ "commit": "183819bfd9efac8c184d9bf123325719b7eee30f",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-13 20:11:13 +0800",
+ "message": "xz-Set-the-Block-size-for-mt-encoding-correctly"
+},
+{
+ "commit": "afb2dbec3d857b026486b75e42a4728e12d234cb",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-11 00:09:41 +0800",
+ "message": "xz-Validate-flush-timeout-for-all-specified-filter-chains"
+},
+{
+ "commit": "5f0c5a04388f8334962c70bc37a8c2ff8f605e0a",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-13 19:54:33 +0800",
+ "message": "xz-Allows-block-list-filters-to-scale-down-memory-usage"
+},
+{
+ "commit": "479fd58d60622331fcbe48fddf756927b9f80d9a",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-10 21:50:33 +0800",
+ "message": "xz-Do-not-include-block-splitting-if-encoders-are-disabled"
+},
+{
+ "commit": "f86ede22500f7ae024ec3ec3f3489ab5a857a3b3",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-10 22:38:59 +0800",
+ "message": "xz-Free-filters-in-debug-mode"
+},
+{
+ "commit": "f281cd0d692ac0c70fc7669b80dddb863ea947e1",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-13 19:28:23 +0800",
+ "message": "xz-Add-a-message-if-block-list-is-used-outside-of-xz-compresssion"
+},
+{
+ "commit": "d6af7f347077b22403133239592e478931307759",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-04-18 20:29:09 +0800",
+ "message": "xz-Create-command-line-options-for-filters-1-9"
+},
+{
+ "commit": "072d29250113268536719ad0e040ab8a66fb6435",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-13 19:36:09 +0800",
+ "message": "xz-Use-lzma_filters_free-in-forget_filter_chain"
+},
+{
+ "commit": "3d21da5cff4b511633cb6e0d8a1090485c0c1059",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-04-17 22:22:45 +0800",
+ "message": "xz-Separate-string-to-filter-conversion-into-a-helper-function"
+},
+{
+ "commit": "a6583726e5f950278f96abcf79c04f1056810be6",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-06 00:03:35 +0800",
+ "message": "Tests-Use-new-filters-option-in-test_compress.sh"
+},
+{
+ "commit": "5f3b898d07cc9b7160c7c88b3120b7edabb8a5b0",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-06 00:03:06 +0800",
+ "message": "xz-Update-long-help-and-man-page-for-new-filters-option"
+},
+{
+ "commit": "9ded880a0221f4d1256845fc4ab957ffd377c760",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-06 00:02:29 +0800",
+ "message": "xz-Add-filters-option-to-CLI"
+},
+{
+ "commit": "2c189bb00af73dc7ba1a67a9d274d5be03ee3a88",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-14 21:30:25 +0800",
+ "message": "Tests-Improve-feature-testing-for-skipping"
+},
+{
+ "commit": "80a6b9bcad016c99c9ba3f3eeb4a619fcadfd357",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-10 20:56:28 +0800",
+ "message": "Translations-Update-the-Chinese-traditional-translation"
+},
+{
+ "commit": "17f8844e6fc355abf997d77637a7447c4f7bbcbd",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-08 21:24:19 +0800",
+ "message": "liblzma-Remove-non-portable-empty-initializer"
+},
+{
+ "commit": "3aca4f629cd577f0c54f594d5d88722edf0b0413",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-07-08 20:03:59 +0800",
+ "message": "Translations-Update-the-Vietnamese-translation"
+},
+{
+ "commit": "66bdcfa85fef2911cc80f5f30fed3f9610faccb4",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-06-28 20:46:31 +0800",
+ "message": "Tests-Fix-memory-leaks-in-test_index"
+},
+{
+ "commit": "fe3bd438fb119f9bad3f08dc29d331e4956196e1",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-06-28 20:43:29 +0800",
+ "message": "Tests-Fix-memory-leaks-in-test_block_header"
+},
+{
+ "commit": "78704f36e74205857c898a351c757719a6c8b666",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-06-28 20:31:11 +0800",
+ "message": "liblzma-Prevent-uninitialzed-warning-in-mt-stream-encoder"
+},
+{
+ "commit": "e3356a204c5ae02db3ec4552b6c1be354e9b6142",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-06-28 20:22:38 +0800",
+ "message": "liblzma-Prevent-warning-for-MSYS2-Windows-build"
+},
+{
+ "commit": "45e250a9e9f3c3e8e8af2983366b170bf54f890e",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-06-28 21:01:22 +0800",
+ "message": "CI-Add-test-with-fsanitize-address-undefined"
+},
+{
+ "commit": "596ee722cd7ddf0afae584fc06365adc0e735977",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-06-28 20:16:04 +0800",
+ "message": "CI-Upgrade-checkout-action-from-v2-to-v3"
+},
+{
+ "commit": "86118ea320f867e09e98a8682cc08cbbdfd640e2",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-06-27 23:38:32 +0800",
+ "message": "Update-THANKS"
+},
+{
+ "commit": "3d1fdddf92321b516d55651888b9c669e254634e",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-06-27 17:27:09 +0300",
+ "message": "Docs-Document-the-configure-option-disable-ifunc-in-INSTALL"
+},
+{
+ "commit": "dbb3a536ed9873ffa0870321f6873e564c6a9da8",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-06-07 00:18:30 +0800",
+ "message": "CI-Add-apt-update-command-before-installing-dependencies"
+},
+{
+ "commit": "6bcd516812331de42b347922913230895bebad34",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-06-07 00:10:38 +0800",
+ "message": "Update-THANKS"
+},
+{
+ "commit": "045d7aae286ecd2ce163be9e0d9041343a03f89a",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-31 20:26:42 +0800",
+ "message": "Translations-Update-the-Esperanto-translation"
+},
+{
+ "commit": "b0cc7c2dcefe4cbc4e1e697598c14fb687ed0b78",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-31 20:25:00 +0800",
+ "message": "Translations-Update-the-Croatian-translation"
+},
+{
+ "commit": "af045ef6f848f02cd14c9ad195a5f87bb0c02dce",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-31 20:15:53 +0800",
+ "message": "Translations-Update-the-Chinese-simplified-translation"
+},
+{
+ "commit": "e6b92d5817fe91ad27a0f7f57bd0f2144311e383",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-17 23:12:13 +0800",
+ "message": "Translations-Update-German-translation-of-man-pages"
+},
+{
+ "commit": "592961ccdbba39c7d60fe37e36764232feb57c60",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-17 23:09:18 +0800",
+ "message": "Translations-Update-the-German-translation"
+},
+{
+ "commit": "13572cb2c391f5b7503e333c6e05b20bd5bbb524",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-17 20:30:01 +0800",
+ "message": "Translations-Update-the-Croatian-translation"
+},
+{
+ "commit": "4e6e425ea8f097c6fb43e69cc9540294dca3680d",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-17 20:26:54 +0800",
+ "message": "Translations-Update-Korean-translation-of-man-pages"
+},
+{
+ "commit": "d5ef1f6faf7c270f60093629257150085ecf19ca",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-17 20:13:01 +0800",
+ "message": "Translations-Update-the-Korean-translation"
+},
+{
+ "commit": "e22d0b0f2e301e7906d0106689d967ed84362028",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-16 23:49:09 +0800",
+ "message": "Translations-Update-the-Spanish-translation"
+},
+{
+ "commit": "f50da74d52d01f6cfd826a921249e289cf671678",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-16 23:47:23 +0800",
+ "message": "Translations-Update-the-Romanian-translation"
+},
+{
+ "commit": "4b9ad60a7305e9841b7cb4ea611bdf5fa7271696",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-16 23:45:43 +0800",
+ "message": "Translations-Update-Romanian-translation-of-man-pages"
+},
+{
+ "commit": "cb6fd57f889c5d9fab36ae8c9e10083a5fe32dea",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-16 23:43:51 +0800",
+ "message": "Translations-Update-Ukrainian-translation-of-man-pages"
+},
+{
+ "commit": "c3e8fcbc2db4861f92ad15606c995bd255803c52",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-16 23:37:54 +0800",
+ "message": "Translations-Update-the-Ukrainian-translation"
+},
+{
+ "commit": "27b81b84fcedbc55aa6e6b21004c44070b15b038",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-16 23:07:35 +0800",
+ "message": "Translations-Update-the-Polish-translation"
+},
+{
+ "commit": "8024ad636a65ed6ea95c94d57255be4c6724d6ed",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-16 22:52:14 +0800",
+ "message": "Translations-Update-the-Swedish-translation"
+},
+{
+ "commit": "6699a29673f227c4664826db485ed9f7596320d2",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-16 21:21:38 +0800",
+ "message": "Translations-Update-the-Esperanto-translation"
+},
+{
+ "commit": "f36ca7982f6bd5e9827219ed4f3c5a1fbf5d7bdf",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-13 21:21:54 +0800",
+ "message": "liblzma-Slightly-rewords-lzma_str_list_filters-documentation"
+},
+{
+ "commit": "3374a5359e52f1671d8f831d65827d5020fe2595",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-11 23:49:23 +0800",
+ "message": "liblzma-Adds-lzma_nothrow-to-MicroLZMA-API-functions"
+},
+{
+ "commit": "8f236574986e7c414c0ea059f441982d1387e6a4",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-09 20:20:06 +0800",
+ "message": "liblzma-Exports-lzma_mt_block_size-as-an-API-function"
+},
+{
+ "commit": "d0f33d672a4da7985ebb5ba8d829f885de49c171",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-08 22:58:09 +0800",
+ "message": "liblzma-Creates-IS_ENC_DICT_SIZE_VALID-macro"
+},
+{
+ "commit": "c247d06e1f6cada9a76f4f6225cbd97ea760f52f",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-02 20:39:56 +0800",
+ "message": "Add-NEWS-for-5.4.3"
+},
+{
+ "commit": "77050b78364ffb6b0f129e742b7c31602d725c08",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-02 20:39:37 +0800",
+ "message": "Add-NEWS-for-5.2.12"
+},
+{
+ "commit": "713e15e43eb6279a7ab4bbad3d1325ebfdcf09a0",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-04 20:38:52 +0800",
+ "message": "Translations-Update-the-Croatian-translation"
+},
+{
+ "commit": "9ad64bdf309844b6ca6c3e8a4dfb6dbaedda0ca9",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-04 20:30:25 +0800",
+ "message": "tuklib_integer.h-Reverts-previous-commit"
+},
+{
+ "commit": "6be460dde07113fe3f08f814b61ddc3264125a96",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-05-04 19:25:20 +0800",
+ "message": "tuklib_integer.h-Changes-two-other-UINT_MAX-UINT32_MAX-to"
+},
+{
+ "commit": "2cf5ae5b5b279b0b2e69ca4724e7bd705865fe68",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-04-25 20:06:15 +0800",
+ "message": "CI-Adds-a-build-and-test-for-small-configuration"
+},
+{
+ "commit": "16b81a057a87c2f18e6ed6447f003af0cbdcfe43",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-04-25 20:05:26 +0800",
+ "message": "CI-ci_build.sh-allows-configuring-small-build"
+},
+{
+ "commit": "78ccd93951f9e988d447bcdd70b24f6df5448d1d",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-04-20 20:15:00 +0800",
+ "message": "Update-THANKS"
+},
+{
+ "commit": "f41df2ac2fed347d3f107f3533e76e000d29c6cb",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-04-19 22:22:16 +0800",
+ "message": "Windows-Include-intrin.h-when-needed"
+},
+{
+ "commit": "7062348bf35c1e4cbfee00ad9fffb4a21aa6eff7",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-04-19 21:59:03 +0800",
+ "message": "tuklib_integer-Use-__builtin_clz-with-Clang"
+},
+{
+ "commit": "2a89670ab295e377f8b44f5bda6d198deb8ea285",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-04-13 20:45:19 +0800",
+ "message": "liblzma-Cleans-up-old-commented-out-code"
+},
+{
+ "commit": "0fbb2b87a7b5a1dd9d0f4a5e84ac7919557dbe81",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-04-07 20:46:41 +0800",
+ "message": "Docs-Add-missing-word-to-SECURITY.md"
+},
+{
+ "commit": "fb9c50f38a17bf37581de4034b36c8df8ec90a87",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-04-07 20:43:22 +0800",
+ "message": "Update-THANKS"
+},
+{
+ "commit": "537c6cd8a9db0dd6b13683e64ddac2943190d715",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-04-07 20:42:12 +0800",
+ "message": "Docs-Minor-edits-to-SECURITY.md"
+},
+{
+ "commit": "d0faa85df5a5d253a4625d45313cf5e9277e6cd2",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-28 22:48:24 +0800",
+ "message": "CI-Tests-for-disabling-threading-on-CMake-builds"
+},
+{
+ "commit": "8be5cc3b1359d88b4b30a39067466c0ae0bfbc4d",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-28 22:45:42 +0800",
+ "message": "CI-Removes-CMakeCache.txt-between-builds"
+},
+{
+ "commit": "2cb6028fc31de082b7f927632363bb1426b61aaa",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-28 22:32:40 +0800",
+ "message": "CMake-Update-liblzma-config.cmake-generation"
+},
+{
+ "commit": "4d7fac0b07cc722825ba8d7838c558827e635611",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-28 22:25:33 +0800",
+ "message": "CMake-Allows-setting-thread-method"
+},
+{
+ "commit": "20cd905d898c1494dee42b78530769bb9c9f8076",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-24 23:05:48 +0800",
+ "message": "CI-Runs-CMake-feature-tests"
+},
+{
+ "commit": "4fabdb269f1fc5624b3b94a170c4efb329d1d229",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-24 20:35:11 +0800",
+ "message": "CI-ci_build.sh-allows-CMake-features-to-be-configured"
+},
+{
+ "commit": "cf3d1f130e50cf63da4bb1031771605f6f443b6a",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-24 20:06:33 +0800",
+ "message": "CI-Change-ci_build.sh-to-use-bash-instead-of-sh"
+},
+{
+ "commit": "ddfe164368e779c40d061aa4ccc376129e92f8e1",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-24 20:05:59 +0800",
+ "message": "CMake-Only-build-xzdec-if-decoders-are-enabled"
+},
+{
+ "commit": "116e81f002c503d3c3cd12726db8f9116e58ef25",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-22 15:42:04 +0800",
+ "message": "Build-Removes-redundant-check-for-LZMA1-filter-support"
+},
+{
+ "commit": "b0891684b4436aed31510fddcbb218d513bd5489",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-21 23:36:00 +0800",
+ "message": "CMake-Conditionally-build-xz-list.-files-if-decoders-are-enabled"
+},
+{
+ "commit": "2c1a830efb61d9d65906a09c9ee3ce27c2c49227",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-25 11:46:50 +0800",
+ "message": "CMake-Allow-configuring-features-as-cache-variables"
+},
+{
+ "commit": "f0c580c5fc38bf49a184b48d76c1d8c057d499ce",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-18 22:10:57 +0800",
+ "message": "Add-NEWS-for-5.4.2"
+},
+{
+ "commit": "af4925e6043113ec9b5f9c0cf13abf2a18ccb1f6",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-18 22:10:12 +0800",
+ "message": "Add-NEWS-for-5.2.11"
+},
+{
+ "commit": "8b2f6001b4f412c259a7883427f2f2c8cea98ea8",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-18 00:40:28 +0800",
+ "message": "CMake-Fix-typo-in-a-comment"
+},
+{
+ "commit": "509157c80c500426ec853bd992d684ebafc8500c",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-17 01:30:36 +0800",
+ "message": "Doc-Rename-Doxygen-HTML-doc-directory-name-liblzma-api"
+},
+{
+ "commit": "fd90e2f4c29180b44e33c7ef726f94e4eae54ed3",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-16 22:07:15 +0800",
+ "message": "liblzma-Remove-note-from-lzma_options_bcj-about-the-ARM64-exception"
+},
+{
+ "commit": "4f50763b981f9056c5f1763dfb26cfa4a26a181d",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-16 21:44:02 +0800",
+ "message": "CI-Add-doxygen-as-a-dependency"
+},
+{
+ "commit": "8979308528c1f45cb9ee52d511f05232b4ad90a1",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-16 21:41:09 +0800",
+ "message": "Doc-Update-PACKAGERS-with-details-about-liblzma-API-docs-install"
+},
+{
+ "commit": "55ba6e93004842ae0a0792214a23504267ad8f43",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-16 21:38:32 +0800",
+ "message": "liblzma-Add-set-lzma.h-as-the-main-page-for-Doxygen-documentation"
+},
+{
+ "commit": "16f21255597f6a57e5692780f962cdc090f62b8c",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-16 21:37:32 +0800",
+ "message": "Build-Generate-doxygen-documentation-in-autogen.sh"
+},
+{
+ "commit": "1321852a3be7196bd7fcfd146221a5669e46407c",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-16 21:35:55 +0800",
+ "message": "Build-Create-doxygen-update-doxygen-script"
+},
+{
+ "commit": "b1216a7772952d2fe7fe9c6acfcbd98d30abbc7b",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-16 21:34:36 +0800",
+ "message": "Build-Install-Doxygen-docs-and-include-in-distribution-if-generated"
+},
+{
+ "commit": "1b7661faa4bbf4a54c6b75900b5059835c382a0f",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-28 23:22:36 +0800",
+ "message": "Tests-Remove-unused-macros-and-functions"
+},
+{
+ "commit": "af55191102f01e76de658c881299f0909ca0feda",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-29 21:52:15 +0800",
+ "message": "liblzma-Defines-masks-for-return-values-from-lzma_index_checks"
+},
+{
+ "commit": "8f38cdd9ab71e2a9d5a9787550222b7578243b73",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-12 22:29:07 +0800",
+ "message": "Tests-Refactors-existing-lzma_index-tests"
+},
+{
+ "commit": "916448d624aaf55cef0fc3e53754affb8c4f309d",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-08 23:08:46 +0800",
+ "message": "Revert-Add-warning-if-Capsicum-sandbox-system-calls-are-unsupported"
+},
+{
+ "commit": "01587dda2a8f13fef7e12fd624e6d05da5f9624f",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-07 20:02:22 +0800",
+ "message": "xz-Fix-Wunused-label-in-io_sandbox_enter"
+},
+{
+ "commit": "5fb936786601a1cd013a5d436adde65982b1e13c",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-06 21:37:45 +0800",
+ "message": "xz-Add-warning-if-Capsicum-sandbox-system-calls-are-unsupported"
+},
+{
+ "commit": "61ee82cb1232a402c82282bbae42821f2b952b0d",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-06 21:27:53 +0800",
+ "message": "xz-Skip-Capsicum-sandbox-system-calls-when-they-are-unsupported"
+},
+{
+ "commit": "f070722b57ba975a0dff36492d766f03026b1d21",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-03-06 21:08:26 +0800",
+ "message": "xz-Reorder-cap_enter-to-beginning-of-capsicum-sandbox-code"
+},
+{
+ "commit": "f1ab1f6b339d16a53ac53efeb97779ecd2bae70f",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-24 23:46:23 +0800",
+ "message": "liblzma-Clarify-lzma_lzma_preset-documentation-in-lzma12.h"
+},
+{
+ "commit": "9aa7fdeb04c486d2700967090956af88fdccab7e",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-24 18:10:37 +0800",
+ "message": "Tests-Small-tweak-to-test-vli.c"
+},
+{
+ "commit": "3cf72c4bcba5370f07477c9b9b62ae33069ef9a9",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-06 21:46:43 +0800",
+ "message": "liblzma-Replace-n-newline-in-filter.h-documentation"
+},
+{
+ "commit": "002006be62d77c706565fa6ec828bea64be302da",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-06 21:45:37 +0800",
+ "message": "liblzma-Shorten-return-description-for-two-functions-in-filter.h"
+},
+{
+ "commit": "463d9359b8595f01d44ada1739d75aeb87f36524",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-06 21:44:45 +0800",
+ "message": "liblzma-Reword-a-few-lines-in-filter.h"
+},
+{
+ "commit": "01441df92c0fd6a6c02fe5ac27982a54ce887cc0",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-06 21:35:06 +0800",
+ "message": "liblzma-Improve-documentation-in-filter.h"
+},
+{
+ "commit": "fa9065fac54194fe0407fc7f0cc9633fdce13c21",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-07 00:00:44 +0800",
+ "message": "liblzma-Adjust-container.h-for-consistency-with-filter.h"
+},
+{
+ "commit": "00a721b63d82dfb658dca8d8cb599d8a245c663f",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-07 00:00:09 +0800",
+ "message": "liblzma-Fix-small-typos-and-reword-a-few-things-in-filter.h"
+},
+{
+ "commit": "5b1c171d4ffe89ef18fa31509bb0185d6fd11d39",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-06 23:42:08 +0800",
+ "message": "liblzma-Convert-list-of-flags-in-lzma_mt-to-bulleted-list"
+},
+{
+ "commit": "dbd47622eb99fefb3538a22baec3def002aa56f5",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-26 23:17:41 +0800",
+ "message": "liblzma-Fix-typo-in-documentation-in-container.h"
+},
+{
+ "commit": "14cd30806d69e55906073745bcce3ee50e0ec942",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-26 23:16:34 +0800",
+ "message": "liblzma-Improve-documentation-for-container.h"
+},
+{
+ "commit": "c9c8bfae3502842dcead85eeb2b951b437c2cd88",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-22 20:59:41 +0800",
+ "message": "CMake-Add-LZIP-decoder-test-to-list-of-tests"
+},
+{
+ "commit": "f029daea39c215fd7d5cb6b6798818b055cf5b22",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-17 00:54:33 +0800",
+ "message": "liblzma-Adjust-spacing-in-doc-headers-in-bcj.h"
+},
+{
+ "commit": "a5de68bac2bb7e1b9119e6cea7d761a22ea73e9c",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-17 00:44:44 +0800",
+ "message": "liblzma-Adjust-documentation-in-bcj.h-for-consistent-style"
+},
+{
+ "commit": "efa498c13b883810497e0ea8a169efd6f48f5026",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-17 00:36:05 +0800",
+ "message": "liblzma-Rename-field-member-in-documentation"
+},
+{
+ "commit": "87c53553fa7d50f777b4edfa99f2083628f590fe",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-16 21:04:54 +0800",
+ "message": "liblzma-Improve-documentation-for-stream_flags.h"
+},
+{
+ "commit": "13d99e75a543e9e5f8633cc241eae55b91a3b242",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-14 21:50:16 +0800",
+ "message": "liblzma-Improve-documentation-in-lzma12.h"
+},
+{
+ "commit": "43ec344c868f930e96879eb9e49212cce92a9884",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-27 22:44:06 +0800",
+ "message": "liblzma-Improve-documentation-in-check.h"
+},
+{
+ "commit": "9c71db4e884fd49aea3d1e711036bff45ca66487",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-08 21:33:52 +0800",
+ "message": "liblzma-Improve-documentation-in-index.h"
+},
+{
+ "commit": "421f2f2e160720f6009e3b6a125cafe2feaa9419",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-08 20:35:32 +0800",
+ "message": "liblzma-Reword-a-comment-in-index.h"
+},
+{
+ "commit": "b67539484981351d501b68de5e925425e50c59b1",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-08 20:30:23 +0800",
+ "message": "liblzma-Omit-lzma_index_iter-s-internal-field-from-Doxygen-docs"
+},
+{
+ "commit": "0c9e4fc2ad6d88d54f299240fcc5a2ce7d695d96",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-21 21:32:03 +0800",
+ "message": "liblzma-Fix-documentation-for-LZMA_MEMLIMIT_ERROR"
+},
+{
+ "commit": "816fec125aa74bcef46512c73acc6d9e5a700d15",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-21 00:29:38 +0800",
+ "message": "liblzma-Improve-documentation-for-base.h"
+},
+{
+ "commit": "862dacef1a4e7e1b28d465956fa4244ed01df154",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-14 00:12:34 +0800",
+ "message": "liblzma-Add-one-more-missing-out-annotation-in-vli.h"
+},
+{
+ "commit": "867b08ae4254bf55dd1f7fd502cc618231b92f75",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-14 00:08:33 +0800",
+ "message": "liblzma-Minor-improvements-to-vli.h"
+},
+{
+ "commit": "90d0e628ff11e5030bcc4fc000bca056adda6603",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-10 21:38:02 +0800",
+ "message": "liblzma-Add-comments-for-macros-in-delta.h"
+},
+{
+ "commit": "9255fffdb13e59874bf7f95c370c410ad3a7e114",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-10 21:35:23 +0800",
+ "message": "liblzma-Improve-documentation-in-index_hash.h"
+},
+{
+ "commit": "7673ef5aa80c1af7fb693360dd82f527b46c2c56",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-04 21:06:35 +0800",
+ "message": "Build-Adjust-CMake-version-search-regex"
+},
+{
+ "commit": "b8bce89be7fb5bffe5fef4a2782ca9b2b107eaac",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-04 12:01:23 +0800",
+ "message": "xz-Add-a-comment-clarifying-the-use-of-start_time-in-mytime.c"
+},
+{
+ "commit": "912af91b10a18fb9bb3167247ecaaefca8248ee9",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-26 09:50:21 +0800",
+ "message": "liblzma-Improve-documentation-for-version.h"
+},
+{
+ "commit": "850adec171203cd22b57d016084d713f72ae5307",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-03 22:52:55 +0800",
+ "message": "Docs-Omit-SIGTSTP-not-handled-from-TODO"
+},
+{
+ "commit": "2c78a83c6faec70154d9eb78022a618ed62cdcb3",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-03 00:33:32 +0800",
+ "message": "liblzma-Fix-bug-in-lzma_str_from_filters-not-checking-filters-length"
+},
+{
+ "commit": "e01f01b9af1c074463b92694a16ecc16a31907c0",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-03 00:32:47 +0800",
+ "message": "Tests-Create-test_filter_str.c"
+},
+{
+ "commit": "8dfc029e7a4ce45809c30313dc0e502f0d22be26",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-22 08:49:00 +0800",
+ "message": "liblzma-Fix-typos-in-comments-in-string_conversion.c"
+},
+{
+ "commit": "54ad83c1ae2180dcc0cb2445b181dc1e9732a5d6",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-03 00:20:20 +0800",
+ "message": "liblzma-Clarify-block-encoder-and-decoder-documentation"
+},
+{
+ "commit": "f680e771b3eb2a46310fe85b3e000ac3a1a0640f",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-03 00:12:24 +0800",
+ "message": "Update-lzma_block-documentation-for-lzma_block_uncomp_encode"
+},
+{
+ "commit": "504cf4af895fd45aad0c56eb3b49d90acd54465b",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-03 00:11:37 +0800",
+ "message": "liblzma-Minor-edits-to-lzma_block-header_size-documentation"
+},
+{
+ "commit": "115b720fb521f99aa832d06b2c12b7f8c6c50680",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-03 00:11:07 +0800",
+ "message": "liblzma-Enumerate-functions-that-read-version-in-lzma_block"
+},
+{
+ "commit": "85ea0979adcf808a3830aefbe7a4ec884e542ea1",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-03 00:10:34 +0800",
+ "message": "liblzma-Clarify-comment-in-block.h"
+},
+{
+ "commit": "1f7ab90d9ce224230a04de6b921ad6e2029023a8",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-03 00:07:23 +0800",
+ "message": "liblzma-Improve-documentation-for-block.h"
+},
+{
+ "commit": "c563a4bc554a96bd0b6aab3c139715b7ec8f6ca3",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-01 23:38:30 +0800",
+ "message": "liblzma-Clarify-a-comment-about-LZMA_STR_NO_VALIDATION"
+},
+{
+ "commit": "315c64c7e18acc59a745b68148188a73e998252b",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-01 21:43:33 +0800",
+ "message": "CI-Update-.gitignore-for-artifacts-directory-in-build-aux"
+},
+{
+ "commit": "2c1341f4fa06e7f487d61142aa354c433e17ec7f",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-01 21:36:46 +0800",
+ "message": "CI-Add-quotes-around-variables-in-a-few-places"
+},
+{
+ "commit": "3a401b0e0c7a2658af7801dd0690256ef24149e0",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-02-01 21:36:22 +0800",
+ "message": "CI-Upload-test-logs-as-artifacts-if-a-test-fails"
+},
+{
+ "commit": "3b1c8ac8d1d553cbb1fb22b545d2b1424c752b76",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-27 20:14:51 +0800",
+ "message": "Translations-Add-Brazilian-Portuguese-translation-of-man-pages"
+},
+{
+ "commit": "f35d98e20609e0be6a04ae2604bfb7cb9d5bd5e4",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-24 20:48:50 +0800",
+ "message": "liblzma-Fix-documentation-in-filter.h-for-lzma_str_to_filters"
+},
+{
+ "commit": "cc5aa9ab138beeecaee5a1e81197591893ee9ca0",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-07 21:55:06 +0800",
+ "message": "xz-Refactor-duplicated-check-for-custom-suffix-when-using-format-raw"
+},
+{
+ "commit": "9663141274e01592a281a7f2df5d7a31a1dac8bf",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-20 21:53:14 +0800",
+ "message": "liblzma-Set-documentation-on-all-reserved-fields-to-private"
+},
+{
+ "commit": "6327a045f34d48fc5afc58ba0d32a82c94403049",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-20 21:39:59 +0800",
+ "message": "Doxygen-Update-Doxyfile.in-from-1.4.7-to-1.8.17"
+},
+{
+ "commit": "bbf71b69ebf9d0d62a0af150a5c37d193b8159ad",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-03 20:37:30 +0800",
+ "message": "Doxygen-Make-Doxygen-only-produce-liblzma-API-documentation-by-default"
+},
+{
+ "commit": "6fcf4671b6047113c583a0919fc850987a4ec5f4",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-21 23:59:43 +0800",
+ "message": "liblzma-Highlight-liblzma-API-headers-should-not-be-included-directly"
+},
+{
+ "commit": "b43ff180fb2e372adce876bfa155fc9bcf0c3db4",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-19 20:35:09 +0800",
+ "message": "tuklib_physmem-Silence-warning-from-Wcast-function-type-on-MinGW-w64"
+},
+{
+ "commit": "82e3c968bfa10e3ff13333bd9cbbadb5988d6766",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-19 20:32:40 +0800",
+ "message": "tuklib_common-Define-__has_warning-if-it-is-not-defined"
+},
+{
+ "commit": "b2ba1a489df451cdcd93b2334e319dd06778de19",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-18 22:11:05 +0800",
+ "message": "CI-Reorder-32-bit-build-first-for-Linux-autotool-builds"
+},
+{
+ "commit": "dd1c1135741057c91e8d018be9ec4d43968b0e64",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-18 21:51:43 +0800",
+ "message": "CI-Enable-config-cache-in-autotool-builds"
+},
+{
+ "commit": "d3e11477053764c003eec2daa5198c747d70ff69",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-16 21:35:45 +0800",
+ "message": "xz-Add-missing-comment-for-coder_set_compression_settings"
+},
+{
+ "commit": "123255b6ed15f4428b2aa92e4962015a5362f6bf",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-16 20:55:10 +0800",
+ "message": "xz-Do-not-set-compression-settings-with-raw-format-in-list-mode"
+},
+{
+ "commit": "571919c47b9ff5171ede84378620ed0a9aeb98c0",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-13 20:37:06 +0800",
+ "message": "Translations-Update-the-Brazilian-Portuguese-translation"
+},
+{
+ "commit": "81cb02e2c22bbc036cdfaa2d2c4176f6bd60d3cf",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-12 23:43:06 +0800",
+ "message": "CI-Disable-shared-and-nls-from-various-jobs-in-autotool-runners"
+},
+{
+ "commit": "58a052198a7bcaf6e958f87fad72e69e19a2579b",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-12 23:39:19 +0800",
+ "message": "CI-Reorder-the-32-bit-job-in-the-Ubuntu-runner"
+},
+{
+ "commit": "4110a998b83459fe2bc9bc1bec30ad68afa8f797",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-12 23:09:03 +0800",
+ "message": "CI-Allow-disabling-Native-Language-Support"
+},
+{
+ "commit": "0dec634e705b5bf89a37c5d62d71e8511d480058",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-12 23:02:20 +0800",
+ "message": "CI-Only-run-autogen.sh-if-it-has-not-already-run"
+},
+{
+ "commit": "32287dc8def94df4546e903495d14c132bd54cc4",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-12 22:58:36 +0800",
+ "message": "CI-Allow-disabling-shared-library-in-autotools-builds"
+},
+{
+ "commit": "77d1ebcc99ddd82a300d1838f608150221931dcd",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-12 22:44:18 +0800",
+ "message": "CI-Improve-Usage-readability-and-add-h-option"
+},
+{
+ "commit": "62efd48a825e8f439e84c85e165d8774ddc68fd2",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-11 23:58:16 +0800",
+ "message": "Add-NEWS-for-5.4.1"
+},
+{
+ "commit": "d1561c47ec8cd3844a785d3741dc932f9b9c5790",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-11 22:46:48 +0800",
+ "message": "xz-Fix-warning-Wformat-nonliteral-on-clang-in-message.c"
+},
+{
+ "commit": "8c0f115cc489331c48df77beca92fe378039d919",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-11 20:58:31 +0800",
+ "message": "Tests-Fix-test_filter_flags-copy-paste-error"
+},
+{
+ "commit": "25035813d1d596fde692addc33e7f715f1fe55eb",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-11 20:42:29 +0800",
+ "message": "Tests-Fix-type-limits-warning-in-test_filter_flags"
+},
+{
+ "commit": "765354b50c2886fc0d294d6be3b207f7ae2ada70",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-11 01:18:50 +0800",
+ "message": "Tests-Fix-unused-function-warning-in-test_block_header"
+},
+{
+ "commit": "7c23c05befdcc73231c0d6632a7d943dbeaea1aa",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-11 01:08:03 +0800",
+ "message": "Tests-Fix-unused-function-warning-in-test_index_hash"
+},
+{
+ "commit": "57464bb4ebd6c00dc8b19803f05ea55ddd0826f6",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-11 00:54:45 +0800",
+ "message": "CI-CD-Add-32-bit-build-and-test-steps-to-Ubuntu-autotools-runner"
+},
+{
+ "commit": "923eb689a4b863b6cca8df6360d4962aae994edf",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-11 00:51:01 +0800",
+ "message": "CI-CD-Enables-warnings-as-errors-in-autotool-build"
+},
+{
+ "commit": "feae5528a30c006b6e2f96a95116e20b983703fc",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-11 00:48:35 +0800",
+ "message": "CI-CD-Add-f-argument-to-set-CFLAGS-in-ci_build.sh"
+},
+{
+ "commit": "5c9fdd3bf53a9655f5eb2807d662b3af0d5e1865",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-29 23:33:33 +0800",
+ "message": "Tests-Refactors-existing-filter-flags-tests"
+},
+{
+ "commit": "8d372bd94066b1a5b0570b2550f83c2868486adf",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-07 21:05:15 +0800",
+ "message": "CI-CD-Split-CMake-Linux-and-MacOS-build-phase-to-build-and-test"
+},
+{
+ "commit": "747c7f2b34bd498f6702c6875500a26b06201772",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-07 11:16:55 +0800",
+ "message": "CI-CD-Reduce-job-runners-to-4-instead-of-using-matrix-strategy"
+},
+{
+ "commit": "4de35fd6b58d46fc887c78faf163f6a37b790c45",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-07 10:07:20 +0800",
+ "message": "CI-CD-Add-new-p-PHASE-argument-to-ci_build.sh"
+},
+{
+ "commit": "6fd39664de47801e670a16617863196bfbde4755",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-07 00:10:50 +0800",
+ "message": "Merge-pull-request-7-from-tukaani-project-tuktest_index_hash"
+},
+{
+ "commit": "78e0561dfebaa9d5e34558de537efcda890e0629",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-06 20:43:31 +0800",
+ "message": "Style-Change-if-defined-to-ifndef-in-mythread.h"
+},
+{
+ "commit": "e834e1e934ed0af673598d8c0c34afb2af56bee0",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-06 20:35:55 +0800",
+ "message": "Build-Add-missing-stream_decoder_mt.c-to-.vcxproj-files"
+},
+{
+ "commit": "84f9687cbae972c2c342e10bf69f8ec8f70ae111",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-05 20:57:25 +0800",
+ "message": "liblzma-Remove-common.h-include-from-common-index.h"
+},
+{
+ "commit": "52380678f42364daa4510f92f6d3b18ec98c3638",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-04 23:58:58 +0800",
+ "message": "Tests-Replace-non-portable-shell-parameter-expansion"
+},
+{
+ "commit": "d0eb345bb7d148a62883ee299adec2b74a0f6f3b",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-03 21:02:38 +0800",
+ "message": "Translations-Add-Korean-translation-of-man-pages"
+},
+{
+ "commit": "c4145978d95ebf1690c778d354e15f7c2823d7a8",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-03 20:47:27 +0800",
+ "message": "Translations-Update-the-Esperanto-translation"
+},
+{
+ "commit": "bb740e3b117f1a3c65152d01e5755523a908ecb1",
+ "author": "jiat0218@gmail.com",
+ "date": "2023-01-02 22:33:48 +0800",
+ "message": "Build-Only-define-HAVE_PROGRAM_INVOCATION_NAME-if-it-is-set-to-1"
+},
+{
+ "commit": "064cd385a716abc78d93a3612411a82d69ceb221",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-29 00:30:52 +0800",
+ "message": "Adds-test_index_hash-to-.gitignore"
+},
+{
+ "commit": "3959162baec074511d83ba0fec1284c3ed724799",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-29 00:25:18 +0800",
+ "message": "Tests-Creates-test_index_hash.c"
+},
+{
+ "commit": "f16e12d5e755d371247202fcccbcccd1ec16b2cf",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-08-17 20:20:16 +0800",
+ "message": "liblzma-Add-NULL-check-to-lzma_index_hash_append"
+},
+{
+ "commit": "203b008eb220208981902e0db541c02d1c1c9f5e",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-08-17 17:59:51 +0800",
+ "message": "liblzma-Replaced-hardcoded-0x0-index-indicator-byte-with-macro"
+},
+{
+ "commit": "2fcba17fc4d7eda8fc60567169cf2a0e6fcfb2f8",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-29 01:55:19 +0800",
+ "message": "xz-Includes-time.h-and-sys-time.h-conditionally-in-mytime.c"
+},
+{
+ "commit": "f82294c8318a7a0990583d51ac5c7de682ad36ef",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-29 01:15:27 +0800",
+ "message": "liblzma-Includes-sys-time.h-conditionally-in-mythread"
+},
+{
+ "commit": "74dae7d30091e906d6a92a57952dea4354473f9b",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-29 01:10:53 +0800",
+ "message": "Build-No-longer-require-HAVE_DECL_CLOCK_MONOTONIC-to-always-be-set"
+},
+{
+ "commit": "7339e39dc060df6eda74a2c5b69961befc3d5d24",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-28 01:14:07 +0800",
+ "message": "Translations-Add-Ukrainian-translations-of-man-pages"
+},
+{
+ "commit": "9f05c27a58ce8cd7803079aa295e41c24665ce6e",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-23 00:34:48 +0800",
+ "message": "CI-CD-Create-initial-version-of-CI-CD-workflow"
+},
+{
+ "commit": "1275ebfba74230dbd028049141423c79c8b83b8f",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-22 23:14:53 +0800",
+ "message": "liblzma-Update-documentation-for-lzma_filter_encoder"
+},
+{
+ "commit": "7c9ff5f1667a16733163b75dfd4b509662c387f4",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-21 21:12:03 +0800",
+ "message": "Tests-Adds-lzip-decoder-tests"
+},
+{
+ "commit": "799ead162de63b8400733603d3abcd2e1977bdca",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-20 22:05:21 +0800",
+ "message": "Doxygen-Update-.gitignore-for-generating-docs-for-in-source-build"
+},
+{
+ "commit": "5f7ce42a16b1e86ca8408b5c670c25e2a12acc4e",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-20 20:46:44 +0800",
+ "message": "liblzma-Fix-lzma_microlzma_encoder-return-value"
+},
+{
+ "commit": "8ace358d65059152d9a1f43f4770170d29d35754",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-16 20:58:55 +0800",
+ "message": "CMake-Update-.gitignore-for-CMake-artifacts-from-in-source-build"
+},
+{
+ "commit": "8bdbe42a8d0d75dff70206b923fc4bce5c69a40a",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-06 23:05:56 +0800",
+ "message": "Translations-Update-the-German-translation"
+},
+{
+ "commit": "5c304b57c24ef40ff57f864301065f0244c05bde",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-06 23:04:25 +0800",
+ "message": "Translations-Update-the-Turkish-translation"
+},
+{
+ "commit": "6d86781fdb937970486500447ebb49b98244235b",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-06 23:02:11 +0800",
+ "message": "Translations-Update-the-Croatian-translation"
+},
+{
+ "commit": "7a5b4b8075eb36026b1796f04ffed5830c42396a",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-06 22:56:30 +0800",
+ "message": "Translations-Add-Romanian-translation-of-man-pages"
+},
+{
+ "commit": "c6977e7400088177556e8771bcb839eb7d90caa3",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-12-06 22:52:13 +0800",
+ "message": "Translations-Update-the-Romanian-translation"
+},
+{
+ "commit": "7c16e312cb2f40b81154c0e5be13a3c6b8da485d",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-11-30 23:33:08 +0800",
+ "message": "xz-Remove-message_filters_to_str-function-prototype-from-message.h"
+},
+{
+ "commit": "0a72b9ca2fe20082da9b7128fe0d908af947a851",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-11-30 00:52:06 +0800",
+ "message": "liblzma-Improve-documentation-for-string-to-filter-functions"
+},
+{
+ "commit": "75f1a6c26df4ce329da0882786403e3ccf5cd898",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-05-05 20:53:42 +0800",
+ "message": "liblzma-Add-support-for-LZMA_SYNC_FLUSH-in-the-Block-encoder"
+},
+{
+ "commit": "a11a2b8b5e830ba682c1d81aaa7078842b296995",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-11-19 23:18:04 +0800",
+ "message": "CMake-Adds-test_memlimit-to-CMake-tests"
+},
+{
+ "commit": "1fc6e7dd1fabdb60124d449b99273330ccab3ff1",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-11-07 16:24:14 +0200",
+ "message": "xz-Avoid-a-compiler-warning-in-progress_speed-in-message.c"
+},
+{
+ "commit": "ce30ada91951d0746879ae438da11f1ee8a90aa0",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-10-23 21:01:08 +0800",
+ "message": "Tests-test_bcj_exact_size-skips-properly-now-if-PowerPC-filter-disabled"
+},
+{
+ "commit": "6a86e81cab202d0a812a7b2e9efacaf70c58ba38",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-10-06 21:53:09 +0300",
+ "message": "Tests-Refactor-test_stream_flags.c"
+},
+{
+ "commit": "827ac5b4821491fd3afe0d0e1ddac326253aeb66",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-10-06 17:00:38 +0800",
+ "message": "Tests-Refactor-test_block_header.c"
+},
+{
+ "commit": "84963318952064a93bfc52edd6b0ef70593384ee",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-10-05 23:54:12 +0800",
+ "message": "Tests-Fix-compilation-issues"
+},
+{
+ "commit": "14af758a770c7781af18fb66d6d21ee5b1c27f04",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-10-05 20:57:16 +0800",
+ "message": "liblzma-Fix-a-compilation-issue-when-encoders-are-disabled"
+},
+{
+ "commit": "6ca5c354bd4620aa7f81da68870eef1b1f26288f",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-10-05 16:41:38 +0800",
+ "message": "Tests-Fix-compilation-error-when-threading-support-has-been-disabled"
+},
+{
+ "commit": "8cc9874a7974cd575aee44f218836f7acdbeb0ed",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-09-21 16:15:50 +0800",
+ "message": "liblzma-Add-dest-and-src-NULL-checks-to-lzma_index_cat"
+},
+{
+ "commit": "afd5a8bf5374eba82804a999e1ea7af680784086",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-09-21 20:29:28 +0800",
+ "message": "Tests-Create-a-test-for-the-lzma_index_cat-bug"
+},
+{
+ "commit": "3d5a99ca373a4e86faf671226ca6487febb9eeac",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-09-21 19:28:53 +0800",
+ "message": "liblzma-Fix-copying-of-check-type-statistics-in-lzma_index_cat"
+},
+{
+ "commit": "18d7facd3802b55c287581405c4d49c98708c136",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-09-02 20:18:55 +0800",
+ "message": "liblzma-lzma_index_append-Add-missing-integer-overflow-check"
+},
+{
+ "commit": "ba3e4ba2de034ae93a513f9c3a0823b80cdb66dc",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-09-08 15:07:00 +0300",
+ "message": "CMake-Clarify-a-comment-about-Windows-symlinks-without-file-extension"
+},
+{
+ "commit": "61f8ec804abdb4c5dac01e8ae9b90c7be58a5c24",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-07-25 18:30:05 +0300",
+ "message": "liblzma-Refactor-lzma_mf_is_supported-to-use-a-switch-statement"
+},
+{
+ "commit": "4d80b463a1251aa22eabc87d2732fec13b1adda6",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-07-25 18:20:01 +0300",
+ "message": "Build-Don-t-allow-empty-LIST-in-enable-match-finders-LIST"
+},
+{
+ "commit": "d1bfa3dc703325ecd974167e864a8712fdfe936e",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-07-01 21:19:26 +0800",
+ "message": "Created-script-to-generate-code-coverage-reports"
+},
+{
+ "commit": "86a30b0255d8064169fabfd213d907016d2f9f2a",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-06-16 17:32:19 +0300",
+ "message": "Tests-Add-more-tests-into-test_check"
+},
+{
+ "commit": "a08f5ccf6bdc20ef70e41f6f3321618ef146f96e",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-06-12 11:31:40 +0800",
+ "message": "Created-tests-for-all-functions-exported-in-vli.h"
+},
+{
+ "commit": "1e3eb61815a91c0a1bfbb802e2d95593f523491f",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-06-03 21:24:54 +0800",
+ "message": "Added-parallel-test-artifacts-to-.gitignore"
+},
+{
+ "commit": "aa75c5563a760aea3aa23d997d519e702e82726b",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-06-10 21:35:18 +0800",
+ "message": "Tests-Created-tests-for-hardware-functions"
+},
+{
+ "commit": "6468f7e41a8e9c611e4ba8d34e2175c5dacdbeb4",
+ "author": "jiat0218@gmail.com",
+ "date": "2022-01-28 20:47:55 +0800",
+ "message": "liblzma-Add-NULL-checks-to-LZMA-and-LZMA2-properties-encoders"
+}]
