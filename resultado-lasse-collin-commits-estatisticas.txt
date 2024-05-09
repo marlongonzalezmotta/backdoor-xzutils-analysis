@@ -1,0 +1,60 @@
+Análise de lasse.collin@tukaani.org:
+
+---Resultado da média de commits dele de TODOS OS DIAS de 2007-12-09 00:42:33+02:00 até 2024-05-02 23:00:16+03:00:---
+O total de commits analisados é 1882.
+A mediana de horário de commit é 18:30 horas.
+A média de horário de commit é 18:02 horas.
+O HORÁRIO DO COMMIT MAIS FREQUENTE É 17:08 horas.
+O horário mais cedo de commit é 05:37 horas.
+O horário mais tarde de commit é 04:1486 horas.
+
+---Resultado da média dos DIAS DA SEMANA dos commits de 2007-12-09 00:42:33+02:00 até 2024-05-02 23:00:16+03:00---
+
+Thursday(Quinta-feira):
+A mediana de horário de commit é 17:47 horas.
+A média de horário de commit é 17:34 horas.
+O HORÁRIO DO COMMIT MAIS FREQUENTE É 22:59 horas.
+O horário mais cedo de commit é 05:37 horas.
+O horário mais tarde de commit é 04:1486 horas.
+
+Tuesday(Terça-feira):
+A mediana de horário de commit é 17:41 horas.
+A média de horário de commit é 17:26 horas.
+O HORÁRIO DO COMMIT MAIS FREQUENTE É 17:41 horas.
+O horário mais cedo de commit é 07:40 horas.
+O horário mais tarde de commit é 03:1482 horas.
+
+Friday(Sexta-feira):
+A mediana de horário de commit é 17:52 horas.
+A média de horário de commit é 17:32 horas.
+O HORÁRIO DO COMMIT MAIS FREQUENTE É 17:52 horas.
+O horário mais cedo de commit é 07:05 horas.
+O horário mais tarde de commit é 02:1473 horas.
+
+Saturday(Sábado):
+A mediana de horário de commit é 18:58 horas.
+A média de horário de commit é 18:17 horas.
+O HORÁRIO DO COMMIT MAIS FREQUENTE É 15:35 horas.
+O horário mais cedo de commit é 08:46 horas.
+O horário mais tarde de commit é 03:1463 horas.
+
+Sunday(Domingo):
+A mediana de horário de commit é 18:57 horas.
+A média de horário de commit é 18:23 horas.
+O HORÁRIO DO COMMIT MAIS FREQUENTE É 19:37 horas.
+O horário mais cedo de commit é 08:58 horas.
+O horário mais tarde de commit é 01:1475 horas.
+
+Wednesday(Quarta-feira):
+A mediana de horário de commit é 19:11 horas.
+A média de horário de commit é 18:33 horas.
+O HORÁRIO DO COMMIT MAIS FREQUENTE É 21:15 horas.
+O horário mais cedo de commit é 08:43 horas.
+O horário mais tarde de commit é 01:1471 horas.
+
+Monday(Segunda-feira):
+A mediana de horário de commit é 19:18 horas.
+A média de horário de commit é 18:36 horas.
+O HORÁRIO DO COMMIT MAIS FREQUENTE É 17:08 horas.
+O horário mais cedo de commit é 08:31 horas.
+O horário mais tarde de commit é 01:1486 horas.

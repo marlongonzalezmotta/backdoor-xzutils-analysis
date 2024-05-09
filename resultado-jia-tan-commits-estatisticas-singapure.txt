@@ -1,0 +1,60 @@
+Análise de jiat0218@gmail.com:
+
+---Resultado da média de commits dele de TODOS OS DIAS de 2022-01-28 20:47:55+08:00 até 2024-03-26 01:50:02+08:00:---
+O total de commits analisados é 452.
+A mediana de horário de commit é 21:36 horas.
+A média de horário de commit é 21:16 horas.
+O HORÁRIO DO COMMIT MAIS FREQUENTE É 23:33 horas.
+O horário mais cedo de commit é 08:48 horas.
+O horário mais tarde de commit é 03:1467 horas.
+
+---Resultado da média dos DIAS DA SEMANA dos commits de 2022-01-28 20:47:55+08:00 até 2024-03-26 01:50:02+08:00---
+
+Tuesday(Terça-feira):
+A mediana de horário de commit é 22:46 horas.
+A média de horário de commit é 22:12 horas.
+O HORÁRIO DO COMMIT MAIS FREQUENTE É 22:52 horas.
+O horário mais cedo de commit é 16:40 horas.
+O horário mais tarde de commit é 01:1495 horas.
+
+Saturday(Sábado):
+A mediana de horário de commit é 20:18 horas.
+A média de horário de commit é 18:13 horas.
+O HORÁRIO DO COMMIT MAIS FREQUENTE É 21:04 horas.
+O horário mais cedo de commit é 09:20 horas.
+O horário mais tarde de commit é 03:1467 horas.
+
+Monday(Segunda-feira):
+A mediana de horário de commit é 21:52 horas.
+A média de horário de commit é 21:51 horas.
+O HORÁRIO DO COMMIT MAIS FREQUENTE É 23:33 horas.
+O horário mais cedo de commit é 16:23 horas.
+O horário mais tarde de commit é 00:1482 horas.
+
+Sunday(Domingo):
+A mediana de horário de commit é 21:41 horas.
+A média de horário de commit é 20:29 horas.
+O HORÁRIO DO COMMIT MAIS FREQUENTE É 22:10 horas.
+O horário mais cedo de commit é 08:48 horas.
+O horário mais tarde de commit é 01:1449 horas.
+
+Thursday(Quinta-feira):
+A mediana de horário de commit é 21:33 horas.
+A média de horário de commit é 21:10 horas.
+O HORÁRIO DO COMMIT MAIS FREQUENTE É 20:08 horas.
+O horário mais cedo de commit é 09:50 horas.
+O horário mais tarde de commit é 01:1495 horas.
+
+Wednesday(Quarta-feira):
+A mediana de horário de commit é 21:27 horas.
+A média de horário de commit é 21:42 horas.
+O HORÁRIO DO COMMIT MAIS FREQUENTE É 20:30 horas.
+O horário mais cedo de commit é 15:41 horas.
+O horário mais tarde de commit é 01:1463 horas.
+
+Friday(Sexta-feira):
+A mediana de horário de commit é 21:37 horas.
+A média de horário de commit é 21:52 horas.
+O HORÁRIO DO COMMIT MAIS FREQUENTE É 23:07 horas.
+O horário mais cedo de commit é 16:11 horas.
+O horário mais tarde de commit é 01:1479 horas.
