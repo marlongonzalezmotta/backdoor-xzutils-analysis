@@ -1,0 +1,60 @@
+Analysis of jiat0218@gmail.com:
+
+---Result of average commits by them from EVERY DAY from 2022-01-28 20:47:55+08:00 to 2024-03-26 01:50:02+08:00:---
+Total commits analyzed are 452.
+The median commit time is 21:36 hours.
+The mean commit time is 21:16 hours.
+The MOST FREQUENT COMMIT TIME IS 23:33 hours.
+The earliest commit time is 08:48 hours.
+The latest commit time is 03:1467 hours.
+
+---Result of average WEEKDAY commits from 2022-01-28 20:47:55+08:00 to 2024-03-26 01:50:02+08:00---
+
+Tuesday:
+The median commit time is 22:46 hours.
+The mean commit time is 22:12 hours.
+The MOST FREQUENT COMMIT TIME IS 22:52 hours.
+The earliest commit time is 16:40 hours.
+The latest commit time is 01:1495 hours.
+
+Saturday:
+The median commit time is 20:18 hours.
+The mean commit time is 18:13 hours.
+The MOST FREQUENT COMMIT TIME IS 21:04 hours.
+The earliest commit time is 09:20 hours.
+The latest commit time is 03:1467 hours.
+
+Monday:
+The median commit time is 21:52 hours.
+The mean commit time is 21:51 hours.
+The MOST FREQUENT COMMIT TIME IS 23:33 hours.
+The earliest commit time is 16:23 hours.
+The latest commit time is 00:1482 hours.
+
+Sunday:
+The median commit time is 21:41 hours.
+The mean commit time is 20:29 hours.
+The MOST FREQUENT COMMIT TIME IS 22:10 hours.
+The earliest commit time is 08:48 hours.
+The latest commit time is 01:1449 hours.
+
+Thursday:
+The median commit time is 21:33 hours.
+The mean commit time is 21:10 hours.
+The MOST FREQUENT COMMIT TIME IS 20:08 hours.
+The earliest commit time is 09:50 hours.
+The latest commit time is 01:1495 hours.
+
+Wednesday:
+The median commit time is 21:27 hours.
+The mean commit time is 21:42 hours.
+The MOST FREQUENT COMMIT TIME IS 20:30 hours.
+The earliest commit time is 15:41 hours.
+The latest commit time is 01:1463 hours.
+
+Friday:
+The median commit time is 21:37 hours.
+The mean commit time is 21:52 hours.
+The MOST FREQUENT COMMIT TIME IS 23:07 hours.
+The earliest commit time is 16:11 hours.
+The latest commit time is 01:1479 hours.

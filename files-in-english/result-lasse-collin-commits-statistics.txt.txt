@@ -1,0 +1,60 @@
+Analysis for lasse.collin@tukaani.org:
+
+---Result of average commits per day from 2007-12-09 00:42:33+02:00 to 2024-05-02 23:00:16+03:00:---
+Total commits analyzed: 1882.
+Median commit time is 18:30 hours.
+Mean commit time is 18:02 hours.
+The most frequent commit time is 17:08 hours.
+The earliest commit time is 05:37 hours.
+The latest commit time is 04:1486 hours.
+
+---Result of average commits by day of the week from 2007-12-09 00:42:33+02:00 to 2024-05-02 23:00:16+03:00---
+
+Thursday:
+Median commit time is 17:47 hours.
+Mean commit time is 17:34 hours.
+The most frequent commit time is 22:59 hours.
+The earliest commit time is 05:37 hours.
+The latest commit time is 04:1486 hours.
+
+Tuesday:
+Median commit time is 17:41 hours.
+Mean commit time is 17:26 hours.
+The most frequent commit time is 17:41 hours.
+The earliest commit time is 07:40 hours.
+The latest commit time is 03:1482 hours.
+
+Friday:
+Median commit time is 17:52 hours.
+Mean commit time is 17:32 hours.
+The most frequent commit time is 17:52 hours.
+The earliest commit time is 07:05 hours.
+The latest commit time is 02:1473 hours.
+
+Saturday:
+Median commit time is 18:58 hours.
+Mean commit time is 18:17 hours.
+The most frequent commit time is 15:35 hours.
+The earliest commit time is 08:46 hours.
+The latest commit time is 03:1463 hours.
+
+Sunday:
+Median commit time is 18:57 hours.
+Mean commit time is 18:23 hours.
+The most frequent commit time is 19:37 hours.
+The earliest commit time is 08:58 hours.
+The latest commit time is 01:1475 hours.
+
+Wednesday:
+Median commit time is 19:11 hours.
+Mean commit time is 18:33 hours.
+The most frequent commit time is 21:15 hours.
+The earliest commit time is 08:43 hours.
+The latest commit time is 01:1471 hours.
+
+Monday:
+Median commit time is 19:18 hours.
+Mean commit time is 18:36 hours.
+The most frequent commit time is 17:08 hours.
+The earliest commit time is 08:31 hours.
+The latest commit time is 01:1486 hours.
