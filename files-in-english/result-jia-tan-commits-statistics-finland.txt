@@ -1,0 +1,60 @@
+Analysis of jiat0218@gmail.com:
+
+---Result of the average commits of ALL DAYS from 2022-01-28 14:47:55+02:00 to 2024-03-25 19:50:02+02:00:---
+Total commits analyzed: 452.
+The median commit time is 16:20 hours.
+The mean commit time is 16:31 hours.
+The MOST FREQUENT COMMIT TIME IS 17:33 hours.
+The earliest commit time is 05:46 hours.
+The latest commit time is 05:1467 hours.
+
+---Result of the average of the WEEKDAYS commits from 2022-01-28 14:47:55+02:00 to 2024-03-25 19:50:02+02:00---
+
+Monday:
+The median commit time is 17:33 hours.
+The mean commit time is 17:20 hours.
+The MOST FREQUENT COMMIT TIME IS 17:33 hours.
+The earliest commit time is 13:56 hours.
+The latest commit time is 20:17 hours.
+
+Saturday:
+The median commit time is 15:07 hours.
+The mean commit time is 17:17 hours.
+The MOST FREQUENT COMMIT TIME IS 15:05 hours.
+The earliest commit time is 05:46 hours.
+The latest commit time is 05:1467 hours.
+
+Tuesday:
+The median commit time is 17:03 hours.
+The mean commit time is 16:33 hours.
+The MOST FREQUENT COMMIT TIME IS 17:52 hours.
+The earliest commit time is 10:39 hours.
+The latest commit time is 20:22 hours.
+
+Sunday:
+The median commit time is 17:04 hours.
+The mean commit time is 16:45 hours.
+The MOST FREQUENT COMMIT TIME IS 17:10 hours.
+The earliest commit time is 06:30 hours.
+The latest commit time is 02:1489 hours.
+
+Thursday:
+The median commit time is 15:58 hours.
+The mean commit time is 16:18 hours.
+The MOST FREQUENT COMMIT TIME IS 16:26 hours.
+The earliest commit time is 10:05 hours.
+The latest commit time is 03:1490 hours.
+
+Friday:
+The median commit time is 16:01 hours.
+The mean commit time is 16:03 hours.
+The MOST FREQUENT COMMIT TIME IS 17:07 hours.
+The earliest commit time is 10:11 hours.
+The latest commit time is 22:26 hours.
+
+Wednesday:
+The median commit time is 15:35 hours.
+The mean commit time is 16:02 hours.
+The MOST FREQUENT COMMIT TIME IS 15:26 hours.
+The earliest commit time is 09:41 hours.
+The latest commit time is 19:55 hours.
